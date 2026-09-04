@@ -1,0 +1,8 @@
+user_query,category,confidence,source,response
+How do I access the portal?,General,0.675,FAQ Knowledge Base,"Use the internship portal link provided by HR. Sign in with your registered email and password. If you cannot log in, contact the internship support team."
+I forgot my attendance,Attendance,0.59,FAQ Knowledge Base,Inform your supervisor or HR as soon as possible and explain the missed attendance entry. Follow the organization's correction procedure.
+Where are my tasks?,Tasks,0.64,FAQ Knowledge Base,Assigned tasks are normally available in the project or task-management portal. Check your dashboard and task notifications regularly.
+Can I request leave?,Leave,0.662,FAQ Knowledge Base,Submit a leave request through the organization's approved process and notify your supervisor in advance whenever possible.
+How can I submit code?,Git,0.438,FAQ Knowledge Base,"Create or update the assigned repository, commit your changes with a clear message, push them to the required branch, and follow the project's submission instructions."
+Who can help with HR questions?,HR,0.46,FAQ Knowledge Base,Contact the HR representative or internship coordinator assigned to your program using the official contact details.
+How do I get feedback?,Feedback,0.71,FAQ Knowledge Base,Ask your mentor or supervisor for feedback during scheduled reviews or after completing important tasks. Use the feedback to improve future work.
