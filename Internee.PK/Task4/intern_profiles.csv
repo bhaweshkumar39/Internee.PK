@@ -1,0 +1,101 @@
+intern_id,intern_name,target_role,skills,experience_level,projects_completed
+INT001,Intern E,Python Developer Intern,"SQL, Python, Communication",Beginner,4
+INT002,Intern E,Web Developer Intern,"HTML, APIs, Communication",Beginner,5
+INT003,Intern A,Database Intern,"MySQL, Python, Database",Beginner,5
+INT004,Intern C,Web Developer Intern,"JavaScript, CSS, HTML",Beginner,0
+INT005,Intern A,Web Developer Intern,"JavaScript, APIs",Intermediate,3
+INT006,Intern E,Database Intern,"Python, SQL",Beginner,4
+INT007,Intern A,Data Science Intern,"Python, SQL, NumPy, Machine Learning",Beginner,0
+INT008,Intern B,Web Developer Intern,"Git, JavaScript, HTML",Intermediate,2
+INT009,Intern C,Python Developer Intern,"Pandas, SQL, Python, Git",Intermediate,5
+INT010,Intern C,Database Intern,"Database, SQL, Communication",Beginner,2
+INT011,Intern D,Python Developer Intern,"SQL, Python",Intermediate,3
+INT012,Intern C,Data Science Intern,"Pandas, SQL, NumPy",Intermediate,4
+INT013,Intern A,Web Developer Intern,"Git, JavaScript, HTML, APIs",Beginner,0
+INT014,Intern E,Data Science Intern,"Pandas, Machine Learning, NumPy, Python",Beginner,4
+INT015,Intern C,Machine Learning Intern,"Python, Statistics, Machine Learning, Scikit-learn",Beginner,2
+INT016,Intern C,Web Developer Intern,"Git, HTML",Intermediate,1
+INT017,Intern B,Database Intern,"Database, Python",Beginner,2
+INT018,Intern A,Data Science Intern,"SQL, Python, NumPy, Pandas",Beginner,2
+INT019,Intern A,Data Science Intern,"Pandas, Python, Power BI",Intermediate,1
+INT020,Intern E,Data Science Intern,"Machine Learning, Pandas, SQL, NumPy",Intermediate,5
+INT021,Intern E,Data Science Intern,"NumPy, Machine Learning, SQL, Pandas",Beginner,0
+INT022,Intern E,Data Science Intern,"Python, NumPy, Problem Solving",Beginner,0
+INT023,Intern A,Python Developer Intern,"Python, Git, SQL, Pandas",Intermediate,1
+INT024,Intern E,Machine Learning Intern,"Pandas, Scikit-learn, Machine Learning, Python",Intermediate,3
+INT025,Intern C,Data Science Intern,"Machine Learning, Pandas, Python, Power BI",Beginner,3
+INT026,Intern A,Web Developer Intern,"HTML, APIs, Git, CSS",Beginner,1
+INT027,Intern B,Data Science Intern,"Machine Learning, Pandas, SQL, Python",Beginner,3
+INT028,Intern A,Database Intern,"SQL, Database",Beginner,1
+INT029,Intern A,Data Science Intern,"Machine Learning, SQL, Python",Beginner,3
+INT030,Intern E,Python Developer Intern,"SQL, Pandas, Git",Intermediate,5
+INT031,Intern E,Web Developer Intern,"CSS, JavaScript, Communication",Intermediate,4
+INT032,Intern E,Python Developer Intern,"SQL, Python, Git, Pandas",Beginner,0
+INT033,Intern B,Database Intern,"MySQL, SQL",Beginner,0
+INT034,Intern C,Database Intern,"SQL, Database, Excel",Beginner,5
+INT035,Intern D,Machine Learning Intern,"Machine Learning, Pandas, Excel",Beginner,0
+INT036,Intern B,Python Developer Intern,"Python, Git, SQL",Beginner,0
+INT037,Intern C,Data Science Intern,"NumPy, Pandas, Machine Learning",Intermediate,5
+INT038,Intern C,Database Intern,"Database, Python, Problem Solving",Beginner,0
+INT039,Intern C,Database Intern,"Database, MySQL",Beginner,5
+INT040,Intern C,Machine Learning Intern,"Pandas, Machine Learning, Python, Statistics",Beginner,0
+INT041,Intern E,Machine Learning Intern,"Machine Learning, Scikit-learn",Intermediate,3
+INT042,Intern B,Database Intern,"SQL, Python",Intermediate,0
+INT043,Intern A,Machine Learning Intern,"Statistics, Scikit-learn, Pandas, Python, Excel",Beginner,1
+INT044,Intern B,Data Science Intern,"Python, NumPy, Machine Learning, Pandas",Beginner,1
+INT045,Intern D,Data Science Intern,"Python, Pandas, NumPy",Intermediate,5
+INT046,Intern D,Data Science Intern,"Pandas, Python, SQL",Beginner,1
+INT047,Intern D,Web Developer Intern,"JavaScript, CSS, HTML, Problem Solving",Beginner,2
+INT048,Intern E,Python Developer Intern,"SQL, Git, Pandas",Beginner,0
+INT049,Intern C,Python Developer Intern,"Pandas, SQL, Git, Power BI",Intermediate,2
+INT050,Intern D,Web Developer Intern,"APIs, HTML, CSS, Git",Beginner,4
+INT051,Intern C,Database Intern,"MySQL, Python, Database, SQL",Intermediate,2
+INT052,Intern C,Python Developer Intern,"SQL, Git, Pandas, Python",Intermediate,1
+INT053,Intern D,Data Science Intern,"Machine Learning, Pandas, NumPy",Intermediate,0
+INT054,Intern C,Machine Learning Intern,"Scikit-learn, Pandas, Machine Learning",Beginner,3
+INT055,Intern C,Web Developer Intern,"CSS, Git, JavaScript, HTML",Intermediate,5
+INT056,Intern B,Database Intern,"SQL, Python, MySQL, Problem Solving",Beginner,0
+INT057,Intern E,Data Science Intern,"SQL, Python, Pandas",Beginner,5
+INT058,Intern A,Web Developer Intern,"Git, CSS, HTML",Beginner,3
+INT059,Intern A,Data Science Intern,"SQL, Machine Learning, Problem Solving",Beginner,1
+INT060,Intern E,Web Developer Intern,"APIs, JavaScript, CSS, Git",Beginner,1
+INT061,Intern E,Web Developer Intern,"JavaScript, CSS, APIs",Beginner,5
+INT062,Intern C,Data Science Intern,"Machine Learning, Python, NumPy",Beginner,2
+INT063,Intern B,Database Intern,"MySQL, SQL, Problem Solving",Beginner,3
+INT064,Intern D,Web Developer Intern,"APIs, Git, CSS, Power BI",Intermediate,5
+INT065,Intern D,Python Developer Intern,"Git, Pandas, Python, SQL",Beginner,4
+INT066,Intern A,Database Intern,"MySQL, Python, SQL, Database",Beginner,2
+INT067,Intern E,Web Developer Intern,"CSS, Git, HTML, JavaScript",Intermediate,5
+INT068,Intern B,Python Developer Intern,"Git, Python",Beginner,2
+INT069,Intern D,Web Developer Intern,"CSS, Git, APIs",Beginner,3
+INT070,Intern A,Machine Learning Intern,"Pandas, Python",Beginner,1
+INT071,Intern E,Python Developer Intern,"Python, Git, SQL, Pandas",Beginner,1
+INT072,Intern C,Data Science Intern,"Python, Pandas, Machine Learning",Beginner,4
+INT073,Intern C,Database Intern,"SQL, Python, MySQL, Database",Intermediate,5
+INT074,Intern B,Web Developer Intern,"CSS, HTML, JavaScript",Beginner,5
+INT075,Intern D,Machine Learning Intern,"Statistics, Python, Machine Learning, Pandas",Intermediate,2
+INT076,Intern D,Python Developer Intern,"SQL, Python, Pandas, Git, Excel",Intermediate,1
+INT077,Intern E,Web Developer Intern,"APIs, JavaScript",Beginner,3
+INT078,Intern A,Web Developer Intern,"APIs, JavaScript, CSS, HTML",Beginner,3
+INT079,Intern B,Data Science Intern,"SQL, Machine Learning, Pandas, Excel",Beginner,1
+INT080,Intern C,Machine Learning Intern,"Machine Learning, Statistics, Pandas",Intermediate,0
+INT081,Intern D,Database Intern,"SQL, Python",Intermediate,1
+INT082,Intern D,Web Developer Intern,"Git, APIs, HTML, JavaScript",Intermediate,1
+INT083,Intern E,Machine Learning Intern,"Statistics, Machine Learning, Scikit-learn, Pandas",Beginner,2
+INT084,Intern C,Web Developer Intern,"JavaScript, APIs, HTML, Problem Solving",Beginner,5
+INT085,Intern E,Database Intern,"MySQL, SQL, Database, Python",Intermediate,4
+INT086,Intern C,Machine Learning Intern,"Scikit-learn, Machine Learning, Problem Solving",Beginner,5
+INT087,Intern E,Database Intern,"Database, SQL",Beginner,5
+INT088,Intern D,Data Science Intern,"Machine Learning, Python, SQL, Pandas",Beginner,1
+INT089,Intern A,Python Developer Intern,"Git, Python, SQL",Intermediate,5
+INT090,Intern A,Python Developer Intern,"Pandas, SQL",Beginner,0
+INT091,Intern D,Database Intern,"MySQL, Database, Python",Beginner,4
+INT092,Intern A,Web Developer Intern,"APIs, HTML, JavaScript",Beginner,5
+INT093,Intern B,Data Science Intern,"Python, Pandas, SQL, Communication",Beginner,3
+INT094,Intern D,Web Developer Intern,"APIs, Git, CSS, HTML, Excel",Beginner,5
+INT095,Intern B,Data Science Intern,"SQL, Pandas, Machine Learning, Problem Solving",Beginner,1
+INT096,Intern E,Python Developer Intern,"Pandas, Git",Beginner,3
+INT097,Intern E,Python Developer Intern,"SQL, Git, Pandas",Intermediate,3
+INT098,Intern C,Web Developer Intern,"APIs, HTML",Intermediate,2
+INT099,Intern E,Python Developer Intern,"Pandas, SQL",Intermediate,0
+INT100,Intern B,Machine Learning Intern,"Python, Scikit-learn, Pandas, Machine Learning",Intermediate,3

@@ -1,0 +1,11 @@
+intern_id,role,question_number,question_type,difficulty,question
+INT001,Python Developer Intern,1,Technical,Beginner,"What is Communication, and where is it commonly used?"
+INT001,Python Developer Intern,2,Technical,Beginner,Can you give a simple example of using SQL in a project?
+INT001,Python Developer Intern,3,Technical,Beginner,"What is Python, and where is it commonly used?"
+INT001,Python Developer Intern,4,Technical,Beginner,"What is SQL, and where is it commonly used?"
+INT001,Python Developer Intern,5,Technical,Beginner,Can you give a simple example of using Communication in a project?
+INT001,Python Developer Intern,6,Behavioral,General,Describe a challenging task you completed and how you approached it.
+INT001,Python Developer Intern,7,Behavioral,General,How do you prioritize multiple tasks with similar deadlines?
+INT001,Python Developer Intern,8,Behavioral,General,Tell us about a time you worked successfully in a team.
+INT001,Python Developer Intern,9,Behavioral,General,Tell us about a time you had to learn something new quickly.
+INT001,Python Developer Intern,10,Behavioral,General,Describe a situation where you made a mistake and what you learned from it.

@@ -1,0 +1,66 @@
+question_id,question_type,role,difficulty,skill,question
+Q001,Technical,Python Developer Intern,Intermediate,Python,What is the difference between a list and a tuple in Python?
+Q002,Technical,Python Developer Intern,Intermediate,SQL,How would you handle missing values using Pandas?
+Q003,Technical,Python Developer Intern,Intermediate,SQL,What is a Python dictionary and when would you use it?
+Q004,Technical,Python Developer Intern,Intermediate,Python,How would you find duplicate values in a Python list?
+Q005,Technical,Python Developer Intern,Beginner,SQL,What is the purpose of exception handling in Python?
+Q006,Technical,Data Science Intern,Intermediate,Machine Learning,What is the difference between supervised and unsupervised learning?
+Q007,Technical,Data Science Intern,Intermediate,Machine Learning,How do you handle missing values in a dataset?
+Q008,Technical,Data Science Intern,Beginner,Machine Learning,What is overfitting and how can you reduce it?
+Q009,Technical,Data Science Intern,Beginner,NumPy,Why is train-test splitting important?
+Q010,Technical,Data Science Intern,Intermediate,NumPy,What is the purpose of feature scaling?
+Q011,Technical,Machine Learning Intern,Beginner,Pandas,What is the difference between classification and regression?
+Q012,Technical,Machine Learning Intern,Beginner,Statistics,What is a decision tree?
+Q013,Technical,Machine Learning Intern,Intermediate,Pandas,"Explain precision, recall, and accuracy."
+Q014,Technical,Machine Learning Intern,Beginner,Scikit-learn,What is cross-validation and why is it useful?
+Q015,Technical,Machine Learning Intern,Intermediate,Statistics,How can you identify overfitting in a machine-learning model?
+Q016,Technical,Web Developer Intern,Intermediate,Git,What is the difference between HTML and CSS?
+Q017,Technical,Web Developer Intern,Beginner,CSS,What is the purpose of JavaScript in a web application?
+Q018,Technical,Web Developer Intern,Intermediate,APIs,What is an API and why is it useful?
+Q019,Technical,Web Developer Intern,Beginner,JavaScript,What is responsive web design?
+Q020,Technical,Web Developer Intern,Intermediate,Git,How does Git help developers collaborate?
+Q021,Technical,Database Intern,Beginner,SQL,What is a primary key?
+Q022,Technical,Database Intern,Beginner,MySQL,What is the difference between INNER JOIN and LEFT JOIN?
+Q023,Technical,Database Intern,Intermediate,SQL,What is database normalization?
+Q024,Technical,Database Intern,Intermediate,SQL,How would you find duplicate records in SQL?
+Q025,Technical,Database Intern,Beginner,SQL,What is an index and why can it improve query performance?
+Q026,Behavioral,Python Developer Intern,Intermediate,Soft Skills,Tell us about a time you had to learn something new quickly.
+Q027,Behavioral,Python Developer Intern,Beginner,Soft Skills,Describe a challenging task you completed and how you approached it.
+Q028,Behavioral,Python Developer Intern,Beginner,Soft Skills,How do you handle feedback from a supervisor?
+Q029,Behavioral,Python Developer Intern,Intermediate,Soft Skills,Tell us about a time you worked successfully in a team.
+Q030,Behavioral,Python Developer Intern,Intermediate,Soft Skills,How do you prioritize multiple tasks with similar deadlines?
+Q031,Behavioral,Python Developer Intern,Intermediate,Soft Skills,What do you do when you do not know how to solve a problem?
+Q032,Behavioral,Python Developer Intern,Intermediate,Soft Skills,Describe a situation where you made a mistake and what you learned from it.
+Q033,Behavioral,Python Developer Intern,Intermediate,Soft Skills,How do you communicate when you are having difficulty completing a task?
+Q034,Behavioral,Data Science Intern,Intermediate,Soft Skills,Tell us about a time you had to learn something new quickly.
+Q035,Behavioral,Data Science Intern,Beginner,Soft Skills,Describe a challenging task you completed and how you approached it.
+Q036,Behavioral,Data Science Intern,Intermediate,Soft Skills,How do you handle feedback from a supervisor?
+Q037,Behavioral,Data Science Intern,Beginner,Soft Skills,Tell us about a time you worked successfully in a team.
+Q038,Behavioral,Data Science Intern,Intermediate,Soft Skills,How do you prioritize multiple tasks with similar deadlines?
+Q039,Behavioral,Data Science Intern,Beginner,Soft Skills,What do you do when you do not know how to solve a problem?
+Q040,Behavioral,Data Science Intern,Beginner,Soft Skills,Describe a situation where you made a mistake and what you learned from it.
+Q041,Behavioral,Data Science Intern,Beginner,Soft Skills,How do you communicate when you are having difficulty completing a task?
+Q042,Behavioral,Machine Learning Intern,Intermediate,Soft Skills,Tell us about a time you had to learn something new quickly.
+Q043,Behavioral,Machine Learning Intern,Intermediate,Soft Skills,Describe a challenging task you completed and how you approached it.
+Q044,Behavioral,Machine Learning Intern,Intermediate,Soft Skills,How do you handle feedback from a supervisor?
+Q045,Behavioral,Machine Learning Intern,Intermediate,Soft Skills,Tell us about a time you worked successfully in a team.
+Q046,Behavioral,Machine Learning Intern,Beginner,Soft Skills,How do you prioritize multiple tasks with similar deadlines?
+Q047,Behavioral,Machine Learning Intern,Intermediate,Soft Skills,What do you do when you do not know how to solve a problem?
+Q048,Behavioral,Machine Learning Intern,Intermediate,Soft Skills,Describe a situation where you made a mistake and what you learned from it.
+Q049,Behavioral,Machine Learning Intern,Intermediate,Soft Skills,How do you communicate when you are having difficulty completing a task?
+Q050,Behavioral,Web Developer Intern,Beginner,Soft Skills,Tell us about a time you had to learn something new quickly.
+Q051,Behavioral,Web Developer Intern,Intermediate,Soft Skills,Describe a challenging task you completed and how you approached it.
+Q052,Behavioral,Web Developer Intern,Intermediate,Soft Skills,How do you handle feedback from a supervisor?
+Q053,Behavioral,Web Developer Intern,Intermediate,Soft Skills,Tell us about a time you worked successfully in a team.
+Q054,Behavioral,Web Developer Intern,Intermediate,Soft Skills,How do you prioritize multiple tasks with similar deadlines?
+Q055,Behavioral,Web Developer Intern,Intermediate,Soft Skills,What do you do when you do not know how to solve a problem?
+Q056,Behavioral,Web Developer Intern,Intermediate,Soft Skills,Describe a situation where you made a mistake and what you learned from it.
+Q057,Behavioral,Web Developer Intern,Intermediate,Soft Skills,How do you communicate when you are having difficulty completing a task?
+Q058,Behavioral,Database Intern,Beginner,Soft Skills,Tell us about a time you had to learn something new quickly.
+Q059,Behavioral,Database Intern,Beginner,Soft Skills,Describe a challenging task you completed and how you approached it.
+Q060,Behavioral,Database Intern,Intermediate,Soft Skills,How do you handle feedback from a supervisor?
+Q061,Behavioral,Database Intern,Beginner,Soft Skills,Tell us about a time you worked successfully in a team.
+Q062,Behavioral,Database Intern,Intermediate,Soft Skills,How do you prioritize multiple tasks with similar deadlines?
+Q063,Behavioral,Database Intern,Beginner,Soft Skills,What do you do when you do not know how to solve a problem?
+Q064,Behavioral,Database Intern,Intermediate,Soft Skills,Describe a situation where you made a mistake and what you learned from it.
+Q065,Behavioral,Database Intern,Intermediate,Soft Skills,How do you communicate when you are having difficulty completing a task?
