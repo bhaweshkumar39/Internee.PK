@@ -1,0 +1,251 @@
+intern_id,intern_name,target_role,skills,experience_level,projects_completed
+INT001,Intern 001,Data Scientist,"NumPy, SQL, Power BI, Python, Machine Learning, Pandas",Beginner,0
+INT002,Intern 002,Data Scientist,"Python, Machine Learning, SQL, Power BI, NumPy",Beginner,4
+INT003,Intern 003,Data Analyst,"Tableau, Power BI, Communication, Excel, Pandas",Beginner,2
+INT004,Intern 004,Data Scientist,"SQL, Pandas, Power BI, Machine Learning, Statistics, Python, Git",Beginner,3
+INT005,Intern 005,Data Scientist,"Statistics, Machine Learning, SQL, Python, Power BI, Pandas",Intermediate,2
+INT006,Intern 006,Data Scientist,"Power BI, Pandas, NumPy, Git, Problem Solving",Beginner,1
+INT007,Intern 007,Data Analyst,"Power BI, Pandas, Statistics, Excel, Problem Solving",Intermediate,2
+INT008,Intern 008,Web Developer,"HTML, CSS, Problem Solving, JavaScript, React, Responsive Design, Excel",Beginner,5
+INT009,Intern 009,Data Analyst,"Tableau, Statistics, Python, Excel, Power BI, SQL, Communication",Beginner,4
+INT010,Intern 010,Data Analyst,"Tableau, Power BI, Excel, Statistics, Python, SQL, Communication",Intermediate,1
+INT011,Intern 011,Machine Learning Engineer,"SQL, Scikit-learn, Git, TensorFlow, Docker, Machine Learning, Statistics",Intermediate,6
+INT012,Intern 012,Data Scientist,"Machine Learning, Power BI, Statistics, Pandas, Problem Solving",Intermediate,1
+INT013,Intern 013,Software Developer,"Git, APIs, Python, Problem Solving, Java, OOP",Beginner,1
+INT014,Intern 014,Web Developer,"Git, React, HTML, Problem Solving",Intermediate,6
+INT015,Intern 015,Data Analyst,"Python, Pandas, SQL, Statistics",Beginner,6
+INT016,Intern 016,Data Scientist,"Pandas, Statistics, NumPy, Machine Learning, SQL",Intermediate,6
+INT017,Intern 017,Web Developer,"React, Git, JavaScript, Problem Solving, Responsive Design",Beginner,4
+INT018,Intern 018,Software Developer,"SQL, Python, Git, Testing, Java",Beginner,0
+INT019,Intern 019,Data Scientist,"NumPy, Python, Power BI, Pandas, Communication",Intermediate,2
+INT020,Intern 020,Software Developer,"Problem Solving, Java, SQL, OOP, Testing, Excel",Beginner,3
+INT021,Intern 021,Data Analyst,"Communication, Tableau, Statistics, SQL, Pandas, Python, Excel",Beginner,6
+INT022,Intern 022,Data Scientist,"NumPy, Machine Learning, Git, SQL, Statistics, Problem Solving",Beginner,1
+INT023,Intern 023,Data Scientist,"Python, Statistics, Machine Learning, Git",Beginner,6
+INT024,Intern 024,Machine Learning Engineer,"Statistics, Scikit-learn, SQL, Git, Python, TensorFlow, Docker, Problem Solving",Beginner,2
+INT025,Intern 025,Software Developer,"Problem Solving, Java, Testing, Git, OOP, Python, APIs",Beginner,0
+INT026,Intern 026,Data Scientist,"Pandas, Python, Machine Learning, Power BI, SQL, Statistics, Git",Intermediate,1
+INT027,Intern 027,Software Developer,"Python, APIs, Problem Solving, SQL, Git",Beginner,1
+INT028,Intern 028,Data Analyst,"Tableau, Excel, Statistics, Power BI, Python, Communication",Beginner,0
+INT029,Intern 029,Data Scientist,"SQL, Machine Learning, Git, Power BI",Beginner,2
+INT030,Intern 030,Data Scientist,"Machine Learning, SQL, NumPy, Git, Pandas, Statistics",Beginner,6
+INT031,Intern 031,Web Developer,"CSS, Problem Solving, JavaScript, HTML, APIs, Git",Beginner,2
+INT032,Intern 032,Data Analyst,"Statistics, Excel, Communication, Power BI, Python",Intermediate,6
+INT033,Intern 033,Data Scientist,"Machine Learning, Python, Power BI, Pandas, SQL, Git, NumPy, Problem Solving",Beginner,4
+INT034,Intern 034,Software Developer,"Java, Python, OOP, Problem Solving",Intermediate,6
+INT035,Intern 035,Data Analyst,"Tableau, Excel, SQL, Power BI, Pandas",Intermediate,6
+INT036,Intern 036,Data Scientist,"NumPy, Statistics, Python, Pandas, Git",Beginner,5
+INT037,Intern 037,Machine Learning Engineer,"Machine Learning, Scikit-learn, Python, SQL, Statistics",Beginner,3
+INT038,Intern 038,Machine Learning Engineer,"SQL, Scikit-learn, Python, Git, Statistics, Problem Solving",Beginner,2
+INT039,Intern 039,Data Analyst,"SQL, Statistics, Excel, Python, Power BI",Beginner,0
+INT040,Intern 040,Data Analyst,"Statistics, SQL, Tableau, Power BI, Excel, Pandas, Python, Excel",Beginner,3
+INT041,Intern 041,Data Analyst,"Tableau, Pandas, Communication, SQL, Python, Power BI, Communication",Intermediate,5
+INT042,Intern 042,Software Developer,"OOP, SQL, Python, Git, APIs",Beginner,0
+INT043,Intern 043,Data Analyst,"Tableau, Power BI, Python, Communication, Excel, SQL",Intermediate,3
+INT044,Intern 044,Machine Learning Engineer,"Git, TensorFlow, Python, Machine Learning, Statistics, Docker",Intermediate,4
+INT045,Intern 045,Web Developer,"Problem Solving, React, Responsive Design, CSS, Git, JavaScript, Communication",Intermediate,2
+INT046,Intern 046,Web Developer,"CSS, Responsive Design, Problem Solving, JavaScript, Git, HTML, Communication",Intermediate,1
+INT047,Intern 047,Software Developer,"Problem Solving, SQL, OOP, APIs, Excel",Intermediate,3
+INT048,Intern 048,Software Developer,"Git, OOP, Testing, Python, APIs",Beginner,1
+INT049,Intern 049,Machine Learning Engineer,"Python, TensorFlow, SQL, Statistics, Scikit-learn, Git, Docker",Intermediate,4
+INT050,Intern 050,Web Developer,"Responsive Design, Problem Solving, APIs, React, CSS, JavaScript, Git",Beginner,6
+INT051,Intern 051,Machine Learning Engineer,"Statistics, Docker, SQL, Machine Learning, Scikit-learn, Python",Intermediate,1
+INT052,Intern 052,Data Analyst,"Excel, Communication, Tableau, Statistics, Python, Power BI, Communication",Beginner,0
+INT053,Intern 053,Software Developer,"Problem Solving, SQL, Python, Java, Testing, APIs",Beginner,4
+INT054,Intern 054,Data Scientist,"Git, Python, Pandas, Statistics, NumPy, SQL, Power BI",Intermediate,2
+INT055,Intern 055,Software Developer,"Testing, Git, OOP, SQL",Beginner,6
+INT056,Intern 056,Software Developer,"Testing, APIs, Problem Solving, Python, Problem Solving",Beginner,1
+INT057,Intern 057,Software Developer,"APIs, SQL, Git, Java",Beginner,2
+INT058,Intern 058,Software Developer,"APIs, Testing, Python, SQL, OOP, Git, Problem Solving",Beginner,2
+INT059,Intern 059,Machine Learning Engineer,"Python, Git, Statistics, SQL, Communication",Intermediate,4
+INT060,Intern 060,Machine Learning Engineer,"Statistics, Docker, Python, TensorFlow, SQL",Beginner,2
+INT061,Intern 061,Data Analyst,"Power BI, Communication, SQL, Pandas, Problem Solving",Beginner,4
+INT062,Intern 062,Software Developer,"Java, APIs, OOP, Problem Solving, Python",Beginner,2
+INT063,Intern 063,Web Developer,"Git, APIs, React, JavaScript, Excel",Beginner,2
+INT064,Intern 064,Data Scientist,"SQL, NumPy, Pandas, Power BI, Git, Machine Learning, Python",Beginner,5
+INT065,Intern 065,Data Analyst,"Communication, Python, Statistics, Pandas, Power BI, Excel, SQL",Intermediate,0
+INT066,Intern 066,Data Analyst,"Communication, Pandas, Tableau, Python, Power BI, Problem Solving",Beginner,1
+INT067,Intern 067,Software Developer,"APIs, Git, Testing, Problem Solving, OOP, SQL, Communication",Beginner,0
+INT068,Intern 068,Machine Learning Engineer,"Statistics, TensorFlow, SQL, Scikit-learn, Git, Docker, Python, Communication",Intermediate,3
+INT069,Intern 069,Machine Learning Engineer,"Statistics, TensorFlow, Git, Machine Learning, Scikit-learn, Docker",Beginner,2
+INT070,Intern 070,Software Developer,"APIs, Java, Python, Testing, Git, OOP",Beginner,6
+INT071,Intern 071,Machine Learning Engineer,"Statistics, Machine Learning, Docker, TensorFlow, Git",Beginner,6
+INT072,Intern 072,Machine Learning Engineer,"Docker, SQL, Machine Learning, Python, Git",Beginner,0
+INT073,Intern 073,Web Developer,"Problem Solving, HTML, Responsive Design, APIs, JavaScript",Beginner,3
+INT074,Intern 074,Data Analyst,"Pandas, Tableau, Python, SQL",Beginner,3
+INT075,Intern 075,Software Developer,"Git, Java, APIs, Problem Solving, Communication",Beginner,0
+INT076,Intern 076,Web Developer,"Responsive Design, React, Problem Solving, JavaScript, Git",Beginner,4
+INT077,Intern 077,Data Scientist,"NumPy, Statistics, SQL, Pandas",Intermediate,1
+INT078,Intern 078,Machine Learning Engineer,"Machine Learning, Python, Scikit-learn, Docker",Beginner,3
+INT079,Intern 079,Data Analyst,"Pandas, Statistics, Power BI, Python, SQL",Beginner,2
+INT080,Intern 080,Web Developer,"Responsive Design, HTML, APIs, CSS, Git",Intermediate,6
+INT081,Intern 081,Machine Learning Engineer,"Machine Learning, Git, Statistics, TensorFlow",Beginner,4
+INT082,Intern 082,Data Analyst,"Communication, Statistics, Power BI, Python",Beginner,4
+INT083,Intern 083,Web Developer,"CSS, APIs, HTML, React, JavaScript, Responsive Design, Problem Solving, Communication",Beginner,5
+INT084,Intern 084,Web Developer,"APIs, Problem Solving, HTML, CSS",Intermediate,5
+INT085,Intern 085,Software Developer,"Testing, OOP, SQL, Python, Problem Solving",Beginner,2
+INT086,Intern 086,Data Analyst,"Power BI, Communication, Python, Statistics",Intermediate,3
+INT087,Intern 087,Web Developer,"CSS, JavaScript, Responsive Design, Git, HTML, Problem Solving, React",Beginner,4
+INT088,Intern 088,Software Developer,"SQL, APIs, Git, Testing",Beginner,5
+INT089,Intern 089,Software Developer,"APIs, Problem Solving, Java, Git, SQL",Beginner,3
+INT090,Intern 090,Data Scientist,"Pandas, Git, Machine Learning, Python, NumPy, Communication",Beginner,3
+INT091,Intern 091,Data Scientist,"Git, Statistics, Pandas, Machine Learning, Power BI",Intermediate,3
+INT092,Intern 092,Software Developer,"Git, SQL, Java, APIs, OOP, Python, Testing",Beginner,6
+INT093,Intern 093,Software Developer,"Python, Git, OOP, Testing, SQL, Problem Solving",Beginner,3
+INT094,Intern 094,Data Analyst,"Communication, Power BI, Excel, Statistics, Python, SQL, Pandas, Excel",Beginner,3
+INT095,Intern 095,Software Developer,"Problem Solving, Python, Java, APIs, Git",Beginner,6
+INT096,Intern 096,Software Developer,"Python, OOP, Java, SQL, Testing, Problem Solving, APIs",Beginner,2
+INT097,Intern 097,Data Analyst,"Excel, Tableau, Power BI, Pandas, Python, Communication, Statistics",Intermediate,0
+INT098,Intern 098,Web Developer,"APIs, CSS, Git, HTML, React",Beginner,6
+INT099,Intern 099,Data Scientist,"Machine Learning, Python, Power BI, Pandas, Statistics",Beginner,2
+INT100,Intern 100,Software Developer,"Testing, APIs, OOP, Java, Problem Solving, Excel",Beginner,6
+INT101,Intern 101,Software Developer,"Problem Solving, APIs, Java, OOP, SQL",Intermediate,3
+INT102,Intern 102,Data Analyst,"Communication, Power BI, Statistics, Pandas, Problem Solving",Intermediate,2
+INT103,Intern 103,Web Developer,"APIs, React, JavaScript, CSS, Responsive Design, Problem Solving, HTML",Beginner,4
+INT104,Intern 104,Data Analyst,"Pandas, SQL, Statistics, Python, Power BI, Tableau",Intermediate,5
+INT105,Intern 105,Data Scientist,"Machine Learning, Power BI, SQL, Git, Pandas, Python, NumPy",Intermediate,5
+INT106,Intern 106,Machine Learning Engineer,"Python, Machine Learning, Scikit-learn, Statistics",Intermediate,5
+INT107,Intern 107,Machine Learning Engineer,"Docker, Statistics, Scikit-learn, SQL, TensorFlow, Python",Beginner,2
+INT108,Intern 108,Web Developer,"JavaScript, Problem Solving, React, Responsive Design, APIs, HTML",Intermediate,0
+INT109,Intern 109,Machine Learning Engineer,"Docker, Python, Scikit-learn, Git, Machine Learning, Statistics, TensorFlow",Beginner,5
+INT110,Intern 110,Data Analyst,"Statistics, SQL, Communication, Excel, Python, Tableau, Pandas",Intermediate,1
+INT111,Intern 111,Data Scientist,"Machine Learning, Statistics, NumPy, Python, SQL, Git, Pandas",Intermediate,3
+INT112,Intern 112,Data Scientist,"Pandas, NumPy, Power BI, Git, Statistics",Beginner,5
+INT113,Intern 113,Machine Learning Engineer,"Statistics, TensorFlow, Scikit-learn, Machine Learning, Problem Solving",Beginner,1
+INT114,Intern 114,Software Developer,"OOP, Python, Problem Solving, Git, APIs, Problem Solving",Beginner,1
+INT115,Intern 115,Data Scientist,"NumPy, Statistics, Power BI, Machine Learning",Beginner,0
+INT116,Intern 116,Data Analyst,"Python, SQL, Pandas, Excel, Statistics",Beginner,1
+INT117,Intern 117,Data Analyst,"Pandas, Tableau, Excel, Statistics",Beginner,6
+INT118,Intern 118,Machine Learning Engineer,"Machine Learning, Python, Statistics, SQL",Beginner,0
+INT119,Intern 119,Machine Learning Engineer,"Machine Learning, Docker, Scikit-learn, TensorFlow, Communication",Beginner,3
+INT120,Intern 120,Software Developer,"Problem Solving, APIs, Java, Testing, Excel",Beginner,4
+INT121,Intern 121,Data Analyst,"SQL, Python, Tableau, Statistics",Beginner,3
+INT122,Intern 122,Software Developer,"OOP, APIs, Java, Python, Excel",Beginner,5
+INT123,Intern 123,Web Developer,"Responsive Design, APIs, Problem Solving, JavaScript, React, Git",Intermediate,0
+INT124,Intern 124,Data Scientist,"Power BI, NumPy, SQL, Git, Pandas",Intermediate,3
+INT125,Intern 125,Software Developer,"OOP, SQL, Git, Problem Solving",Intermediate,1
+INT126,Intern 126,Software Developer,"Java, Python, SQL, Testing",Beginner,2
+INT127,Intern 127,Machine Learning Engineer,"Docker, Statistics, Python, Scikit-learn",Intermediate,5
+INT128,Intern 128,Software Developer,"APIs, Problem Solving, Git, OOP, Excel",Intermediate,1
+INT129,Intern 129,Machine Learning Engineer,"Scikit-learn, Git, Python, Machine Learning, TensorFlow, Docker, SQL",Intermediate,6
+INT130,Intern 130,Software Developer,"APIs, Python, Java, Git",Intermediate,2
+INT131,Intern 131,Data Analyst,"Power BI, Tableau, Excel, Pandas",Beginner,0
+INT132,Intern 132,Machine Learning Engineer,"SQL, Docker, TensorFlow, Statistics",Intermediate,3
+INT133,Intern 133,Data Analyst,"Pandas, Statistics, Power BI, Communication, SQL, Python, Excel",Beginner,0
+INT134,Intern 134,Data Scientist,"Power BI, NumPy, Machine Learning, Git, Statistics, SQL, Python",Beginner,0
+INT135,Intern 135,Data Analyst,"Pandas, Statistics, Tableau, Communication",Beginner,5
+INT136,Intern 136,Data Analyst,"Tableau, Pandas, SQL, Statistics, Excel",Beginner,1
+INT137,Intern 137,Machine Learning Engineer,"Docker, Python, Git, Scikit-learn, TensorFlow, Statistics, Excel",Beginner,5
+INT138,Intern 138,Machine Learning Engineer,"SQL, Scikit-learn, Docker, Python, Git, TensorFlow",Intermediate,0
+INT139,Intern 139,Data Analyst,"Tableau, Statistics, Communication, Python, Power BI, SQL, Excel, Problem Solving",Intermediate,1
+INT140,Intern 140,Web Developer,"CSS, React, HTML, Problem Solving, Responsive Design, JavaScript",Beginner,0
+INT141,Intern 141,Software Developer,"SQL, Git, Java, Python, APIs, Testing",Beginner,6
+INT142,Intern 142,Data Analyst,"Python, SQL, Excel, Power BI, Statistics, Communication",Beginner,6
+INT143,Intern 143,Data Scientist,"Git, Power BI, Machine Learning, Statistics, NumPy, Pandas, SQL",Beginner,5
+INT144,Intern 144,Data Analyst,"Excel, Python, Tableau, Power BI, Pandas, Statistics, SQL",Beginner,0
+INT145,Intern 145,Data Analyst,"SQL, Communication, Power BI, Statistics, Tableau, Pandas, Python",Beginner,4
+INT146,Intern 146,Software Developer,"Problem Solving, Testing, APIs, Java",Beginner,3
+INT147,Intern 147,Web Developer,"Problem Solving, HTML, JavaScript, Responsive Design",Beginner,1
+INT148,Intern 148,Data Scientist,"Git, Machine Learning, Power BI, Statistics, SQL, NumPy, Pandas",Beginner,3
+INT149,Intern 149,Software Developer,"OOP, Python, Git, Testing",Beginner,3
+INT150,Intern 150,Data Analyst,"Statistics, SQL, Pandas, Excel, Power BI",Beginner,5
+INT151,Intern 151,Software Developer,"APIs, Problem Solving, SQL, Git",Beginner,5
+INT152,Intern 152,Web Developer,"Git, HTML, JavaScript, Problem Solving, CSS, Responsive Design, React",Beginner,3
+INT153,Intern 153,Machine Learning Engineer,"Machine Learning, Python, Statistics, Git, TensorFlow",Beginner,6
+INT154,Intern 154,Web Developer,"JavaScript, CSS, Responsive Design, APIs, Git, Problem Solving, React, Problem Solving",Beginner,5
+INT155,Intern 155,Machine Learning Engineer,"Statistics, SQL, TensorFlow, Git, Machine Learning, Docker",Beginner,1
+INT156,Intern 156,Data Analyst,"Communication, Tableau, Power BI, Python, Pandas, SQL, Statistics",Intermediate,1
+INT157,Intern 157,Data Analyst,"Statistics, Pandas, SQL, Tableau, Communication, Excel, Python",Beginner,2
+INT158,Intern 158,Software Developer,"Testing, Python, Java, SQL, Git",Intermediate,3
+INT159,Intern 159,Data Scientist,"NumPy, Git, Python, Pandas, SQL, Statistics",Beginner,0
+INT160,Intern 160,Data Analyst,"SQL, Power BI, Python, Excel, Statistics",Beginner,0
+INT161,Intern 161,Data Scientist,"NumPy, Power BI, SQL, Machine Learning, Git, Python",Beginner,1
+INT162,Intern 162,Data Analyst,"Python, Communication, Statistics, Pandas",Beginner,0
+INT163,Intern 163,Software Developer,"SQL, OOP, Java, Git",Intermediate,4
+INT164,Intern 164,Data Analyst,"Power BI, Statistics, Tableau, SQL, Communication, Pandas, Python",Beginner,3
+INT165,Intern 165,Data Scientist,"Statistics, Pandas, Git, Python, Power BI, Machine Learning, SQL",Intermediate,5
+INT166,Intern 166,Data Scientist,"Pandas, Python, Git, Machine Learning, Statistics, NumPy, Excel",Intermediate,3
+INT167,Intern 167,Software Developer,"Git, Python, OOP, SQL, Testing",Intermediate,0
+INT168,Intern 168,Machine Learning Engineer,"TensorFlow, Statistics, Scikit-learn, Git, Docker, SQL, Excel",Beginner,1
+INT169,Intern 169,Data Analyst,"Statistics, Power BI, SQL, Tableau",Beginner,3
+INT170,Intern 170,Software Developer,"Git, SQL, OOP, Testing, Problem Solving, APIs",Beginner,0
+INT171,Intern 171,Software Developer,"Git, APIs, Problem Solving, OOP, Python, SQL, Java",Beginner,2
+INT172,Intern 172,Software Developer,"Git, OOP, SQL, Problem Solving, Testing, Python, Java",Intermediate,3
+INT173,Intern 173,Data Analyst,"Excel, Statistics, Tableau, Python",Intermediate,6
+INT174,Intern 174,Machine Learning Engineer,"Statistics, Python, SQL, Git, Docker",Beginner,2
+INT175,Intern 175,Data Analyst,"Power BI, Statistics, Python, Communication",Beginner,6
+INT176,Intern 176,Data Scientist,"Statistics, NumPy, Pandas, Git, SQL",Intermediate,0
+INT177,Intern 177,Machine Learning Engineer,"SQL, Machine Learning, Git, Scikit-learn, Statistics, Docker, TensorFlow",Beginner,3
+INT178,Intern 178,Machine Learning Engineer,"SQL, Scikit-learn, Statistics, Git, Python",Beginner,6
+INT179,Intern 179,Data Analyst,"Excel, Pandas, Tableau, Power BI, Statistics, SQL",Intermediate,5
+INT180,Intern 180,Machine Learning Engineer,"SQL, Statistics, Git, Docker, Scikit-learn, Excel",Beginner,4
+INT181,Intern 181,Data Analyst,"Excel, SQL, Power BI, Python, Pandas",Beginner,6
+INT182,Intern 182,Software Developer,"Git, Problem Solving, OOP, Python",Intermediate,5
+INT183,Intern 183,Web Developer,"JavaScript, Responsive Design, CSS, React, HTML",Beginner,4
+INT184,Intern 184,Machine Learning Engineer,"Machine Learning, Statistics, Docker, SQL, Git",Beginner,4
+INT185,Intern 185,Data Analyst,"Python, Statistics, Pandas, Power BI, Excel, Tableau",Beginner,4
+INT186,Intern 186,Data Scientist,"Pandas, SQL, Statistics, Machine Learning, Git",Intermediate,4
+INT187,Intern 187,Data Scientist,"Python, Statistics, Machine Learning, Pandas",Beginner,6
+INT188,Intern 188,Web Developer,"Problem Solving, Git, APIs, JavaScript",Beginner,2
+INT189,Intern 189,Software Developer,"APIs, SQL, Python, OOP, Java, Testing, Git",Beginner,1
+INT190,Intern 190,Data Analyst,"Statistics, Tableau, Communication, Power BI, Pandas",Intermediate,1
+INT191,Intern 191,Data Analyst,"Statistics, Excel, Python, SQL",Intermediate,1
+INT192,Intern 192,Machine Learning Engineer,"TensorFlow, Scikit-learn, Statistics, Git",Beginner,6
+INT193,Intern 193,Machine Learning Engineer,"Scikit-learn, Git, SQL, Statistics, TensorFlow, Docker",Beginner,3
+INT194,Intern 194,Data Scientist,"Git, SQL, Power BI, Machine Learning, Pandas, Python, NumPy",Beginner,4
+INT195,Intern 195,Software Developer,"Java, SQL, Problem Solving, Git",Beginner,6
+INT196,Intern 196,Software Developer,"Testing, Python, APIs, OOP, Excel",Beginner,2
+INT197,Intern 197,Data Scientist,"Machine Learning, Power BI, Git, Statistics, Python, NumPy, Pandas",Beginner,6
+INT198,Intern 198,Data Analyst,"Power BI, Excel, Pandas, Statistics, Python, Communication, Communication",Intermediate,1
+INT199,Intern 199,Data Analyst,"Power BI, Pandas, Tableau, Excel, Communication, Python, Statistics, Excel",Beginner,5
+INT200,Intern 200,Data Analyst,"Communication, Statistics, Pandas, Power BI, Python, SQL",Intermediate,5
+INT201,Intern 201,Data Scientist,"Python, Machine Learning, NumPy, Pandas, SQL, Power BI, Problem Solving",Beginner,1
+INT202,Intern 202,Web Developer,"JavaScript, Responsive Design, Git, CSS, HTML, Problem Solving, React, Problem Solving",Intermediate,2
+INT203,Intern 203,Software Developer,"SQL, Problem Solving, APIs, OOP, Testing, Git, Python",Beginner,4
+INT204,Intern 204,Machine Learning Engineer,"Statistics, TensorFlow, Scikit-learn, Machine Learning, SQL, Docker",Intermediate,2
+INT205,Intern 205,Web Developer,"Problem Solving, CSS, Responsive Design, JavaScript, APIs, HTML",Beginner,2
+INT206,Intern 206,Data Analyst,"Communication, Power BI, Python, Tableau, Pandas",Intermediate,4
+INT207,Intern 207,Web Developer,"Git, Responsive Design, CSS, JavaScript, HTML, Problem Solving, React",Beginner,3
+INT208,Intern 208,Data Analyst,"Python, Excel, Pandas, Power BI, Statistics, SQL, Communication",Intermediate,4
+INT209,Intern 209,Machine Learning Engineer,"Scikit-learn, Docker, SQL, Python, Problem Solving",Beginner,5
+INT210,Intern 210,Software Developer,"Python, APIs, Java, SQL, Testing",Beginner,1
+INT211,Intern 211,Data Analyst,"SQL, Tableau, Communication, Pandas, Excel, Power BI",Beginner,6
+INT212,Intern 212,Data Scientist,"Pandas, Python, NumPy, Statistics, SQL, Git, Machine Learning",Beginner,0
+INT213,Intern 213,Data Analyst,"Statistics, Power BI, Python, Pandas",Intermediate,1
+INT214,Intern 214,Web Developer,"React, Responsive Design, HTML, JavaScript, CSS, APIs",Beginner,2
+INT215,Intern 215,Machine Learning Engineer,"TensorFlow, Statistics, Docker, SQL, Git, Machine Learning",Beginner,3
+INT216,Intern 216,Software Developer,"Java, SQL, OOP, Python, Problem Solving, APIs",Intermediate,1
+INT217,Intern 217,Data Scientist,"NumPy, Git, Pandas, Statistics, Machine Learning, Power BI, Python",Beginner,2
+INT218,Intern 218,Machine Learning Engineer,"Statistics, Machine Learning, SQL, Scikit-learn",Beginner,5
+INT219,Intern 219,Data Analyst,"Pandas, Power BI, Communication, Excel",Intermediate,1
+INT220,Intern 220,Software Developer,"OOP, SQL, Problem Solving, APIs, Testing, Git, Python",Beginner,5
+INT221,Intern 221,Web Developer,"Git, HTML, APIs, Responsive Design, Problem Solving, JavaScript, React",Beginner,1
+INT222,Intern 222,Machine Learning Engineer,"SQL, Docker, Statistics, TensorFlow, Scikit-learn, Python, Git",Beginner,3
+INT223,Intern 223,Machine Learning Engineer,"Statistics, TensorFlow, Python, Git, Scikit-learn, Machine Learning, SQL",Intermediate,3
+INT224,Intern 224,Data Analyst,"Excel, SQL, Python, Power BI, Tableau",Beginner,0
+INT225,Intern 225,Data Scientist,"Machine Learning, NumPy, SQL, Statistics",Beginner,5
+INT226,Intern 226,Software Developer,"Problem Solving, Testing, SQL, OOP, Python, Git, APIs",Beginner,2
+INT227,Intern 227,Data Scientist,"Pandas, Statistics, SQL, Python, Machine Learning, Power BI, Git",Beginner,4
+INT228,Intern 228,Software Developer,"SQL, Java, Problem Solving, Git, Testing, OOP, Python",Intermediate,5
+INT229,Intern 229,Data Scientist,"Python, SQL, Power BI, Git, Machine Learning, Pandas, NumPy",Beginner,5
+INT230,Intern 230,Data Scientist,"Power BI, NumPy, SQL, Machine Learning",Beginner,6
+INT231,Intern 231,Data Scientist,"NumPy, Power BI, Statistics, Machine Learning, Pandas, Git",Beginner,5
+INT232,Intern 232,Data Analyst,"Power BI, Statistics, Pandas, Excel, Python, Tableau",Beginner,4
+INT233,Intern 233,Web Developer,"Responsive Design, APIs, React, HTML, JavaScript",Intermediate,5
+INT234,Intern 234,Software Developer,"Testing, SQL, Java, Git, Problem Solving, Python",Intermediate,3
+INT235,Intern 235,Machine Learning Engineer,"Machine Learning, Git, Scikit-learn, Python, Docker, SQL",Beginner,1
+INT236,Intern 236,Software Developer,"SQL, Git, OOP, Python, Problem Solving, Java, Excel",Beginner,6
+INT237,Intern 237,Machine Learning Engineer,"Git, Docker, TensorFlow, Statistics, Python, Scikit-learn, Excel",Beginner,5
+INT238,Intern 238,Web Developer,"React, Responsive Design, JavaScript, Git, HTML, Problem Solving, APIs",Beginner,0
+INT239,Intern 239,Software Developer,"Testing, Java, APIs, Git, OOP",Beginner,4
+INT240,Intern 240,Data Analyst,"Statistics, Pandas, Python, Communication, SQL, Power BI",Beginner,6
+INT241,Intern 241,Data Analyst,"Statistics, Python, SQL, Pandas, Excel, Power BI, Problem Solving",Beginner,4
+INT242,Intern 242,Web Developer,"APIs, CSS, Responsive Design, JavaScript, Git, React, HTML",Intermediate,5
+INT243,Intern 243,Data Analyst,"Communication, Python, Excel, Power BI, Statistics, SQL, Tableau, Excel",Beginner,5
+INT244,Intern 244,Data Scientist,"SQL, Power BI, Statistics, Python",Intermediate,3
+INT245,Intern 245,Machine Learning Engineer,"SQL, Docker, Statistics, Python, Git",Intermediate,2
+INT246,Intern 246,Data Scientist,"Git, Python, Power BI, Machine Learning, NumPy, Statistics, Pandas",Intermediate,2
+INT247,Intern 247,Web Developer,"Responsive Design, Problem Solving, CSS, HTML",Beginner,4
+INT248,Intern 248,Machine Learning Engineer,"TensorFlow, Git, Machine Learning, Docker, Scikit-learn, Problem Solving",Beginner,3
+INT249,Intern 249,Web Developer,"APIs, Git, HTML, Responsive Design, Problem Solving",Beginner,3
+INT250,Intern 250,Web Developer,"HTML, Git, CSS, Problem Solving",Beginner,3

@@ -1,0 +1,41 @@
+role,skill,industry_demand,demand_score
+Data Scientist,Python,High,88
+Data Scientist,SQL,High,98
+Data Scientist,Pandas,High,77
+Data Scientist,NumPy,High,98
+Data Scientist,Machine Learning,Medium,78
+Data Scientist,Statistics,High,99
+Data Scientist,Power BI,High,91
+Data Scientist,Git,High,98
+Machine Learning Engineer,Python,High,75
+Machine Learning Engineer,SQL,High,70
+Machine Learning Engineer,Machine Learning,High,88
+Machine Learning Engineer,Scikit-learn,High,94
+Machine Learning Engineer,TensorFlow,Medium,99
+Machine Learning Engineer,Docker,High,79
+Machine Learning Engineer,Git,High,88
+Machine Learning Engineer,Statistics,High,88
+Data Analyst,SQL,Medium,91
+Data Analyst,Excel,High,82
+Data Analyst,Power BI,High,95
+Data Analyst,Python,High,86
+Data Analyst,Pandas,High,71
+Data Analyst,Statistics,High,83
+Data Analyst,Tableau,High,96
+Data Analyst,Communication,High,80
+Software Developer,Python,Medium,94
+Software Developer,Java,High,70
+Software Developer,Git,High,95
+Software Developer,SQL,Medium,85
+Software Developer,APIs,High,81
+Software Developer,OOP,Medium,83
+Software Developer,Testing,High,91
+Software Developer,Problem Solving,Medium,72
+Web Developer,HTML,High,95
+Web Developer,CSS,High,92
+Web Developer,JavaScript,High,72
+Web Developer,React,High,74
+Web Developer,APIs,Medium,92
+Web Developer,Git,High,93
+Web Developer,Responsive Design,Medium,80
+Web Developer,Problem Solving,High,73
