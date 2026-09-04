@@ -1,0 +1,1001 @@
+intern_id,feedback,satisfaction_rating,sentiment
+INT-0001,The training was insufficient and I needed more help. More regular meetings would be helpful.,1,Negative
+INT-0002,I was unhappy with the lack of communication. I would recommend the internship.,1,Negative
+INT-0003,"The learning opportunities were reasonable. Overall, this was my experience.",3,Neutral
+INT-0004,I felt unsupported during most of the internship.,1,Negative
+INT-0005,I received good guidance and felt confident completing my tasks.,4,Positive
+INT-0006,I received very little feedback about my work. I think the program can be improved.,2,Negative
+INT-0007,I received good guidance and felt confident completing my tasks. I think the program can be improved.,4,Positive
+INT-0008,I really enjoyed working with the team. I would like more opportunities like this.,5,Positive
+INT-0009,The training was insufficient and I needed more help. More regular meetings would be helpful.,2,Negative
+INT-0010,I completed my work and received some feedback from my mentor.,3,Neutral
+INT-0011,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,1,Negative
+INT-0012,I received good guidance and felt confident completing my tasks. I would recommend the internship.,5,Positive
+INT-0013,The internship did not provide enough practical learning. More regular meetings would be helpful.,2,Negative
+INT-0014,The company provided a positive learning environment. More regular meetings would be helpful.,5,Positive
+INT-0015,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,1,Negative
+INT-0016,My mentor was unavailable and I did not receive enough guidance. I would like more opportunities like this.,1,Negative
+INT-0017,The internship did not provide enough practical learning. I would recommend the internship.,1,Negative
+INT-0018,There was confusion about responsibilities and deadlines. I would like more opportunities like this.,1,Negative
+INT-0019,"I completed my work and received some feedback from my mentor. Overall, this was my experience.",3,Neutral
+INT-0020,I really enjoyed working with the team. I would like more opportunities like this.,4,Positive
+INT-0021,The tasks were interesting and helped me build my skills. I would like more opportunities like this.,5,Positive
+INT-0022,"The communication with my mentor was clear and helpful. Overall, this was my experience.",5,Positive
+INT-0023,"The training was insufficient and I needed more help. Overall, this was my experience.",1,Negative
+INT-0024,I felt unsupported during most of the internship. I would recommend the internship.,2,Negative
+INT-0025,"My mentor was supportive and explained tasks clearly. Overall, this was my experience.",4,Positive
+INT-0026,I was unhappy with the lack of communication. I would recommend the internship.,2,Negative
+INT-0027,There was confusion about responsibilities and deadlines. I think the program can be improved.,2,Negative
+INT-0028,There was confusion about responsibilities and deadlines. I think the program can be improved.,1,Negative
+INT-0029,The internship was disappointing and I did not learn enough. I would like more opportunities like this.,2,Negative
+INT-0030,The company provided a positive learning environment. I would recommend the internship.,5,Positive
+INT-0031,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,5,Positive
+INT-0032,I received good guidance and felt confident completing my tasks. I would recommend the internship.,5,Positive
+INT-0033,I felt unsupported during most of the internship. I think the program can be improved.,2,Negative
+INT-0034,I received good guidance and felt confident completing my tasks. I would like more opportunities like this.,5,Positive
+INT-0035,I enjoyed the projects and gained useful practical skills. I would recommend the internship.,4,Positive
+INT-0036,"The projects were repetitive and did not improve my skills. Overall, this was my experience.",1,Negative
+INT-0037,My mentor was unavailable and I did not receive enough guidance. I would recommend the internship.,2,Negative
+INT-0038,The workload was stressful and the schedule was poorly organized. I would recommend the internship.,1,Negative
+INT-0039,The feedback from my supervisor helped me improve quickly. I think the program can be improved.,5,Positive
+INT-0040,The company provided a positive learning environment. More regular meetings would be helpful.,4,Positive
+INT-0041,The internship was okay and I completed the assigned tasks. More regular meetings would be helpful.,3,Neutral
+INT-0042,I was unhappy with the lack of communication. I would like more opportunities like this.,1,Negative
+INT-0043,"The tasks were manageable and the overall experience was normal. Overall, this was my experience.",3,Neutral
+INT-0044,"There was confusion about responsibilities and deadlines. Overall, this was my experience.",1,Negative
+INT-0045,The team environment was friendly and motivating.,4,Positive
+INT-0046,"The projects were repetitive and did not improve my skills. Overall, this was my experience.",1,Negative
+INT-0047,Communication with the team was poor and frustrating. I would like more opportunities like this.,2,Negative
+INT-0048,"The internship was okay and I completed the assigned tasks. Overall, this was my experience.",3,Neutral
+INT-0049,The training was insufficient and I needed more help. I would like more opportunities like this.,1,Negative
+INT-0050,The training was insufficient and I needed more help. I think the program can be improved.,1,Negative
+INT-0051,"The communication with my mentor was clear and helpful. Overall, this was my experience.",4,Positive
+INT-0052,The internship was disappointing and I did not learn enough. I would like more opportunities like this.,1,Negative
+INT-0053,The tasks were interesting and helped me build my skills. I would like more opportunities like this.,4,Positive
+INT-0054,I was happy with the learning opportunities provided.,4,Positive
+INT-0055,The workload was stressful and the schedule was poorly organized. I think the program can be improved.,1,Negative
+INT-0056,I was happy with the learning opportunities provided.,4,Positive
+INT-0057,The workload was stressful and the schedule was poorly organized. I would recommend the internship.,2,Negative
+INT-0058,The internship was disappointing and I did not learn enough. More regular meetings would be helpful.,2,Negative
+INT-0059,The experience was average with both good and difficult moments. I think the program can be improved.,3,Neutral
+INT-0060,There was confusion about responsibilities and deadlines.,1,Negative
+INT-0061,Communication with the team was poor and frustrating. More regular meetings would be helpful.,2,Negative
+INT-0062,The feedback from my supervisor helped me improve quickly. I would recommend the internship.,5,Positive
+INT-0063,I really enjoyed working with the team. I think the program can be improved.,4,Positive
+INT-0064,I was happy with the learning opportunities provided. I would recommend the internship.,5,Positive
+INT-0065,"Communication with the team was poor and frustrating. Overall, this was my experience.",2,Negative
+INT-0066,Communication with the team was poor and frustrating. I think the program can be improved.,1,Negative
+INT-0067,I really enjoyed working with the team. I would recommend the internship.,4,Positive
+INT-0068,I felt unsupported during most of the internship. I would like more opportunities like this.,1,Negative
+INT-0069,My experience was neither very good nor very bad.,3,Neutral
+INT-0070,The tasks were manageable and the overall experience was normal. I think the program can be improved.,3,Neutral
+INT-0071,Communication with the team was poor and frustrating. I would like more opportunities like this.,2,Negative
+INT-0072,The experience was average with both good and difficult moments. I would recommend the internship.,3,Neutral
+INT-0073,The team environment was friendly and motivating.,4,Positive
+INT-0074,The workload was acceptable for most of the internship. I would recommend the internship.,3,Neutral
+INT-0075,The learning opportunities were reasonable. I would like more opportunities like this.,3,Neutral
+INT-0076,I was unhappy with the lack of communication. I would like more opportunities like this.,1,Negative
+INT-0077,I received very little feedback about my work. More regular meetings would be helpful.,2,Negative
+INT-0078,"The feedback from my supervisor helped me improve quickly. Overall, this was my experience.",5,Positive
+INT-0079,The internship was excellent and I learned a lot from the team.,5,Positive
+INT-0080,"I enjoyed the projects and gained useful practical skills. Overall, this was my experience.",4,Positive
+INT-0081,The tasks were interesting and helped me build my skills. More regular meetings would be helpful.,4,Positive
+INT-0082,The team was fine and the internship met basic expectations. I would recommend the internship.,3,Neutral
+INT-0083,"I enjoyed the projects and gained useful practical skills. Overall, this was my experience.",5,Positive
+INT-0084,I completed my work and received some feedback from my mentor. I think the program can be improved.,3,Neutral
+INT-0085,The company provided a positive learning environment. I would like more opportunities like this.,4,Positive
+INT-0086,"I enjoyed the projects and gained useful practical skills. Overall, this was my experience.",4,Positive
+INT-0087,The team environment was friendly and motivating.,5,Positive
+INT-0088,The projects were repetitive and did not improve my skills. I would like more opportunities like this.,1,Negative
+INT-0089,"The internship was okay and I completed the assigned tasks. Overall, this was my experience.",3,Neutral
+INT-0090,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,1,Negative
+INT-0091,The internship was okay and I completed the assigned tasks. I would recommend the internship.,3,Neutral
+INT-0092,The feedback from my supervisor helped me improve quickly. More regular meetings would be helpful.,4,Positive
+INT-0093,Communication with the team was poor and frustrating. I think the program can be improved.,2,Negative
+INT-0094,The tasks were manageable and the overall experience was normal. More regular meetings would be helpful.,3,Neutral
+INT-0095,The internship was disappointing and I did not learn enough. I think the program can be improved.,1,Negative
+INT-0096,"The tasks were interesting and helped me build my skills. Overall, this was my experience.",4,Positive
+INT-0097,I completed my work and received some feedback from my mentor. I would recommend the internship.,3,Neutral
+INT-0098,"The team was fine and the internship met basic expectations. Overall, this was my experience.",3,Neutral
+INT-0099,"There was confusion about responsibilities and deadlines. Overall, this was my experience.",2,Negative
+INT-0100,I was happy with the learning opportunities provided. I would like more opportunities like this.,4,Positive
+INT-0101,There was confusion about responsibilities and deadlines. I would like more opportunities like this.,1,Negative
+INT-0102,There was confusion about responsibilities and deadlines.,2,Negative
+INT-0103,I was unhappy with the lack of communication. More regular meetings would be helpful.,1,Negative
+INT-0104,The company provided a positive learning environment. I would recommend the internship.,4,Positive
+INT-0105,The learning opportunities were reasonable. I would like more opportunities like this.,3,Neutral
+INT-0106,I received good guidance and felt confident completing my tasks. I would like more opportunities like this.,4,Positive
+INT-0107,I was unhappy with the lack of communication.,2,Negative
+INT-0108,My mentor was supportive and explained tasks clearly. I think the program can be improved.,4,Positive
+INT-0109,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,5,Positive
+INT-0110,The team environment was friendly and motivating.,5,Positive
+INT-0111,My mentor was supportive and explained tasks clearly. I think the program can be improved.,4,Positive
+INT-0112,My mentor was supportive and explained tasks clearly. I would recommend the internship.,5,Positive
+INT-0113,"I enjoyed the projects and gained useful practical skills. Overall, this was my experience.",4,Positive
+INT-0114,"The internship was disappointing and I did not learn enough. Overall, this was my experience.",2,Negative
+INT-0115,The communication with my mentor was clear and helpful.,4,Positive
+INT-0116,"The team was fine and the internship met basic expectations. Overall, this was my experience.",3,Neutral
+INT-0117,I really enjoyed working with the team. I would like more opportunities like this.,4,Positive
+INT-0118,I enjoyed the projects and gained useful practical skills. I think the program can be improved.,4,Positive
+INT-0119,The internship gave me valuable real world experience. I would recommend the internship.,4,Positive
+INT-0120,The company provided a positive learning environment.,5,Positive
+INT-0121,The internship was okay and I completed the assigned tasks. I would recommend the internship.,3,Neutral
+INT-0122,"The internship was okay and I completed the assigned tasks. Overall, this was my experience.",3,Neutral
+INT-0123,"The internship was okay and I completed the assigned tasks. Overall, this was my experience.",3,Neutral
+INT-0124,The workload was acceptable for most of the internship. I would like more opportunities like this.,3,Neutral
+INT-0125,There was confusion about responsibilities and deadlines. I think the program can be improved.,2,Negative
+INT-0126,"The projects were repetitive and did not improve my skills. Overall, this was my experience.",1,Negative
+INT-0127,I felt unsupported during most of the internship.,2,Negative
+INT-0128,"There was confusion about responsibilities and deadlines. Overall, this was my experience.",1,Negative
+INT-0129,I was happy with the learning opportunities provided. I would recommend the internship.,4,Positive
+INT-0130,My mentor was unavailable and I did not receive enough guidance. I think the program can be improved.,1,Negative
+INT-0131,I enjoyed the projects and gained useful practical skills. More regular meetings would be helpful.,5,Positive
+INT-0132,I received good guidance and felt confident completing my tasks. I would like more opportunities like this.,4,Positive
+INT-0133,The tasks were interesting and helped me build my skills.,5,Positive
+INT-0134,My experience was neither very good nor very bad. More regular meetings would be helpful.,3,Neutral
+INT-0135,I received good guidance and felt confident completing my tasks.,5,Positive
+INT-0136,"I was unhappy with the lack of communication. Overall, this was my experience.",1,Negative
+INT-0137,There was confusion about responsibilities and deadlines. I would recommend the internship.,2,Negative
+INT-0138,Communication with the team was poor and frustrating. I would like more opportunities like this.,1,Negative
+INT-0139,I felt unsupported during most of the internship.,2,Negative
+INT-0140,My mentor was unavailable and I did not receive enough guidance. I would recommend the internship.,2,Negative
+INT-0141,I felt unsupported during most of the internship. I think the program can be improved.,1,Negative
+INT-0142,The company provided a positive learning environment.,5,Positive
+INT-0143,I completed my work and received some feedback from my mentor. I think the program can be improved.,3,Neutral
+INT-0144,The internship did not provide enough practical learning.,2,Negative
+INT-0145,The company provided a positive learning environment. I think the program can be improved.,5,Positive
+INT-0146,The internship gave me valuable real world experience. I would like more opportunities like this.,5,Positive
+INT-0147,The tasks were unclear and difficult to understand. I think the program can be improved.,1,Negative
+INT-0148,"The projects were repetitive and did not improve my skills. Overall, this was my experience.",2,Negative
+INT-0149,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,2,Negative
+INT-0150,My mentor was unavailable and I did not receive enough guidance.,2,Negative
+INT-0151,My mentor was supportive and explained tasks clearly. I would recommend the internship.,5,Positive
+INT-0152,The projects were repetitive and did not improve my skills.,1,Negative
+INT-0153,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,2,Negative
+INT-0154,"My experience was neither very good nor very bad. Overall, this was my experience.",3,Neutral
+INT-0155,The communication with my mentor was clear and helpful. I think the program can be improved.,4,Positive
+INT-0156,The team environment was friendly and motivating. I would recommend the internship.,5,Positive
+INT-0157,The team was fine and the internship met basic expectations. More regular meetings would be helpful.,3,Neutral
+INT-0158,My mentor was supportive and explained tasks clearly. I would like more opportunities like this.,5,Positive
+INT-0159,The team was fine and the internship met basic expectations. More regular meetings would be helpful.,3,Neutral
+INT-0160,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,1,Negative
+INT-0161,"The internship was okay and I completed the assigned tasks. Overall, this was my experience.",3,Neutral
+INT-0162,I completed my work and received some feedback from my mentor. I would recommend the internship.,3,Neutral
+INT-0163,The workload was acceptable for most of the internship. I think the program can be improved.,3,Neutral
+INT-0164,I received good guidance and felt confident completing my tasks. I would recommend the internship.,5,Positive
+INT-0165,The tasks were interesting and helped me build my skills. More regular meetings would be helpful.,4,Positive
+INT-0166,I completed my work and received some feedback from my mentor. I would like more opportunities like this.,3,Neutral
+INT-0167,Communication with the team was poor and frustrating. I would recommend the internship.,1,Negative
+INT-0168,"The tasks were manageable and the overall experience was normal. Overall, this was my experience.",3,Neutral
+INT-0169,The communication with my mentor was clear and helpful.,4,Positive
+INT-0170,The learning opportunities were reasonable. I would like more opportunities like this.,3,Neutral
+INT-0171,The internship was okay and I completed the assigned tasks. I would recommend the internship.,3,Neutral
+INT-0172,The internship was okay and I completed the assigned tasks. I think the program can be improved.,3,Neutral
+INT-0173,"The training was insufficient and I needed more help. Overall, this was my experience.",1,Negative
+INT-0174,I really enjoyed working with the team. I would like more opportunities like this.,4,Positive
+INT-0175,"I really enjoyed working with the team. Overall, this was my experience.",5,Positive
+INT-0176,The experience was average with both good and difficult moments. I would like more opportunities like this.,3,Neutral
+INT-0177,I was happy with the learning opportunities provided. I would recommend the internship.,4,Positive
+INT-0178,The communication with my mentor was clear and helpful.,5,Positive
+INT-0179,The communication with my mentor was clear and helpful.,4,Positive
+INT-0180,The tasks were interesting and helped me build my skills.,5,Positive
+INT-0181,"The internship did not provide enough practical learning. Overall, this was my experience.",2,Negative
+INT-0182,I completed my work and received some feedback from my mentor. I would recommend the internship.,3,Neutral
+INT-0183,"My mentor was supportive and explained tasks clearly. Overall, this was my experience.",4,Positive
+INT-0184,I felt unsupported during most of the internship. I think the program can be improved.,2,Negative
+INT-0185,I completed my work and received some feedback from my mentor. I would recommend the internship.,3,Neutral
+INT-0186,The internship was disappointing and I did not learn enough. I would recommend the internship.,1,Negative
+INT-0187,Communication with the team was poor and frustrating.,2,Negative
+INT-0188,I felt unsupported during most of the internship. I would recommend the internship.,1,Negative
+INT-0189,I was happy with the learning opportunities provided.,4,Positive
+INT-0190,I received very little feedback about my work. More regular meetings would be helpful.,1,Negative
+INT-0191,My mentor was supportive and explained tasks clearly.,4,Positive
+INT-0192,I felt unsupported during most of the internship. I would like more opportunities like this.,2,Negative
+INT-0193,The training was insufficient and I needed more help. I would recommend the internship.,1,Negative
+INT-0194,The team was fine and the internship met basic expectations. I would like more opportunities like this.,3,Neutral
+INT-0195,I felt unsupported during most of the internship. I would like more opportunities like this.,2,Negative
+INT-0196,The learning opportunities were reasonable. I would recommend the internship.,3,Neutral
+INT-0197,My mentor was unavailable and I did not receive enough guidance. More regular meetings would be helpful.,2,Negative
+INT-0198,My mentor was unavailable and I did not receive enough guidance.,1,Negative
+INT-0199,My mentor was supportive and explained tasks clearly. I would like more opportunities like this.,4,Positive
+INT-0200,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,2,Negative
+INT-0201,I was happy with the learning opportunities provided. More regular meetings would be helpful.,4,Positive
+INT-0202,The company provided a positive learning environment. I think the program can be improved.,5,Positive
+INT-0203,The team environment was friendly and motivating. More regular meetings would be helpful.,4,Positive
+INT-0204,My mentor was unavailable and I did not receive enough guidance. I would recommend the internship.,1,Negative
+INT-0205,"I felt unsupported during most of the internship. Overall, this was my experience.",2,Negative
+INT-0206,The training was insufficient and I needed more help. I think the program can be improved.,2,Negative
+INT-0207,Communication with the team was poor and frustrating. I think the program can be improved.,1,Negative
+INT-0208,I felt unsupported during most of the internship. I think the program can be improved.,2,Negative
+INT-0209,"I received very little feedback about my work. Overall, this was my experience.",2,Negative
+INT-0210,The experience was average with both good and difficult moments.,3,Neutral
+INT-0211,The projects were repetitive and did not improve my skills. I would like more opportunities like this.,2,Negative
+INT-0212,The communication with my mentor was clear and helpful.,5,Positive
+INT-0213,The internship was disappointing and I did not learn enough. I would recommend the internship.,1,Negative
+INT-0214,"The internship was okay and I completed the assigned tasks. Overall, this was my experience.",3,Neutral
+INT-0215,The internship was excellent and I learned a lot from the team. More regular meetings would be helpful.,5,Positive
+INT-0216,The tasks were interesting and helped me build my skills. I would recommend the internship.,4,Positive
+INT-0217,"The tasks were interesting and helped me build my skills. Overall, this was my experience.",4,Positive
+INT-0218,I completed my work and received some feedback from my mentor. More regular meetings would be helpful.,3,Neutral
+INT-0219,"I enjoyed the projects and gained useful practical skills. Overall, this was my experience.",5,Positive
+INT-0220,My mentor was supportive and explained tasks clearly.,5,Positive
+INT-0221,"I completed my work and received some feedback from my mentor. Overall, this was my experience.",3,Neutral
+INT-0222,The communication with my mentor was clear and helpful. I would recommend the internship.,5,Positive
+INT-0223,The tasks were interesting and helped me build my skills. I think the program can be improved.,5,Positive
+INT-0224,"The tasks were interesting and helped me build my skills. Overall, this was my experience.",4,Positive
+INT-0225,The internship gave me valuable real world experience. I would recommend the internship.,5,Positive
+INT-0226,The workload was acceptable for most of the internship.,3,Neutral
+INT-0227,"The tasks were unclear and difficult to understand. Overall, this was my experience.",2,Negative
+INT-0228,The company provided a positive learning environment. More regular meetings would be helpful.,5,Positive
+INT-0229,The team environment was friendly and motivating.,4,Positive
+INT-0230,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,1,Negative
+INT-0231,The team environment was friendly and motivating. I would like more opportunities like this.,4,Positive
+INT-0232,I really enjoyed working with the team. I would like more opportunities like this.,5,Positive
+INT-0233,I enjoyed the projects and gained useful practical skills.,4,Positive
+INT-0234,The training was insufficient and I needed more help. I would recommend the internship.,1,Negative
+INT-0235,I really enjoyed working with the team.,5,Positive
+INT-0236,"The training was insufficient and I needed more help. Overall, this was my experience.",1,Negative
+INT-0237,"The training was insufficient and I needed more help. Overall, this was my experience.",1,Negative
+INT-0238,I received very little feedback about my work. More regular meetings would be helpful.,2,Negative
+INT-0239,The tasks were manageable and the overall experience was normal. More regular meetings would be helpful.,3,Neutral
+INT-0240,The projects were repetitive and did not improve my skills. More regular meetings would be helpful.,2,Negative
+INT-0241,The team was fine and the internship met basic expectations. I would like more opportunities like this.,3,Neutral
+INT-0242,The team was fine and the internship met basic expectations. More regular meetings would be helpful.,3,Neutral
+INT-0243,I received very little feedback about my work. I think the program can be improved.,2,Negative
+INT-0244,The internship was excellent and I learned a lot from the team.,4,Positive
+INT-0245,The internship did not provide enough practical learning. I would like more opportunities like this.,1,Negative
+INT-0246,The team environment was friendly and motivating. I would like more opportunities like this.,4,Positive
+INT-0247,"The internship was okay and I completed the assigned tasks. Overall, this was my experience.",3,Neutral
+INT-0248,I received good guidance and felt confident completing my tasks. I think the program can be improved.,4,Positive
+INT-0249,The feedback from my supervisor helped me improve quickly. I would like more opportunities like this.,4,Positive
+INT-0250,The projects were repetitive and did not improve my skills.,2,Negative
+INT-0251,I was unhappy with the lack of communication.,1,Negative
+INT-0252,My experience was neither very good nor very bad. I think the program can be improved.,3,Neutral
+INT-0253,The learning opportunities were reasonable. I think the program can be improved.,3,Neutral
+INT-0254,My experience was neither very good nor very bad. I would recommend the internship.,3,Neutral
+INT-0255,My mentor was unavailable and I did not receive enough guidance. More regular meetings would be helpful.,2,Negative
+INT-0256,The internship did not provide enough practical learning. More regular meetings would be helpful.,2,Negative
+INT-0257,The workload was acceptable for most of the internship. I would recommend the internship.,3,Neutral
+INT-0258,"Communication with the team was poor and frustrating. Overall, this was my experience.",2,Negative
+INT-0259,The internship was excellent and I learned a lot from the team. I would like more opportunities like this.,4,Positive
+INT-0260,The internship was disappointing and I did not learn enough. More regular meetings would be helpful.,2,Negative
+INT-0261,My experience was neither very good nor very bad. More regular meetings would be helpful.,3,Neutral
+INT-0262,The experience was average with both good and difficult moments. More regular meetings would be helpful.,3,Neutral
+INT-0263,The training was insufficient and I needed more help. I would like more opportunities like this.,1,Negative
+INT-0264,The team was fine and the internship met basic expectations. I would like more opportunities like this.,3,Neutral
+INT-0265,The workload was acceptable for most of the internship. I would like more opportunities like this.,3,Neutral
+INT-0266,The internship was excellent and I learned a lot from the team. I would recommend the internship.,5,Positive
+INT-0267,"The company provided a positive learning environment. Overall, this was my experience.",5,Positive
+INT-0268,The projects were repetitive and did not improve my skills.,1,Negative
+INT-0269,I received very little feedback about my work. More regular meetings would be helpful.,2,Negative
+INT-0270,The internship was excellent and I learned a lot from the team. I think the program can be improved.,4,Positive
+INT-0271,I completed my work and received some feedback from my mentor. I would recommend the internship.,3,Neutral
+INT-0272,Communication with the team was poor and frustrating. I think the program can be improved.,2,Negative
+INT-0273,The internship was excellent and I learned a lot from the team.,5,Positive
+INT-0274,Communication with the team was poor and frustrating. More regular meetings would be helpful.,1,Negative
+INT-0275,I really enjoyed working with the team.,5,Positive
+INT-0276,The tasks were interesting and helped me build my skills. More regular meetings would be helpful.,5,Positive
+INT-0277,The feedback from my supervisor helped me improve quickly.,5,Positive
+INT-0278,"The tasks were interesting and helped me build my skills. Overall, this was my experience.",4,Positive
+INT-0279,"I received very little feedback about my work. Overall, this was my experience.",1,Negative
+INT-0280,The learning opportunities were reasonable. I would like more opportunities like this.,3,Neutral
+INT-0281,The internship gave me valuable real world experience. I would recommend the internship.,4,Positive
+INT-0282,The team was fine and the internship met basic expectations.,3,Neutral
+INT-0283,The projects were repetitive and did not improve my skills. More regular meetings would be helpful.,1,Negative
+INT-0284,The experience was average with both good and difficult moments. More regular meetings would be helpful.,3,Neutral
+INT-0285,My mentor was supportive and explained tasks clearly. I would recommend the internship.,4,Positive
+INT-0286,The internship was excellent and I learned a lot from the team. I would recommend the internship.,5,Positive
+INT-0287,The internship did not provide enough practical learning.,2,Negative
+INT-0288,I received very little feedback about my work.,2,Negative
+INT-0289,I felt unsupported during most of the internship.,2,Negative
+INT-0290,The tasks were manageable and the overall experience was normal. More regular meetings would be helpful.,3,Neutral
+INT-0291,I enjoyed the projects and gained useful practical skills.,5,Positive
+INT-0292,The internship did not provide enough practical learning. I would like more opportunities like this.,2,Negative
+INT-0293,The training was insufficient and I needed more help. I would like more opportunities like this.,1,Negative
+INT-0294,The team environment was friendly and motivating. I would like more opportunities like this.,4,Positive
+INT-0295,The experience was average with both good and difficult moments. I would recommend the internship.,3,Neutral
+INT-0296,"Communication with the team was poor and frustrating. Overall, this was my experience.",1,Negative
+INT-0297,The training was insufficient and I needed more help.,1,Negative
+INT-0298,I completed my work and received some feedback from my mentor. I think the program can be improved.,3,Neutral
+INT-0299,"The learning opportunities were reasonable. Overall, this was my experience.",3,Neutral
+INT-0300,I was unhappy with the lack of communication. I would like more opportunities like this.,1,Negative
+INT-0301,Communication with the team was poor and frustrating. More regular meetings would be helpful.,1,Negative
+INT-0302,"The learning opportunities were reasonable. Overall, this was my experience.",3,Neutral
+INT-0303,I felt unsupported during most of the internship. I would recommend the internship.,1,Negative
+INT-0304,The learning opportunities were reasonable. I would recommend the internship.,3,Neutral
+INT-0305,The internship was excellent and I learned a lot from the team. I think the program can be improved.,4,Positive
+INT-0306,The internship was disappointing and I did not learn enough. I think the program can be improved.,1,Negative
+INT-0307,The internship was excellent and I learned a lot from the team.,4,Positive
+INT-0308,My mentor was supportive and explained tasks clearly. I would recommend the internship.,5,Positive
+INT-0309,The workload was stressful and the schedule was poorly organized.,1,Negative
+INT-0310,The team environment was friendly and motivating. More regular meetings would be helpful.,4,Positive
+INT-0311,The team environment was friendly and motivating. More regular meetings would be helpful.,4,Positive
+INT-0312,I really enjoyed working with the team. I think the program can be improved.,4,Positive
+INT-0313,The internship was disappointing and I did not learn enough. More regular meetings would be helpful.,1,Negative
+INT-0314,The workload was stressful and the schedule was poorly organized.,1,Negative
+INT-0315,I enjoyed the projects and gained useful practical skills. I think the program can be improved.,4,Positive
+INT-0316,"The tasks were unclear and difficult to understand. Overall, this was my experience.",2,Negative
+INT-0317,The tasks were interesting and helped me build my skills. I would like more opportunities like this.,4,Positive
+INT-0318,The company provided a positive learning environment. More regular meetings would be helpful.,4,Positive
+INT-0319,The tasks were unclear and difficult to understand. I think the program can be improved.,1,Negative
+INT-0320,The internship was excellent and I learned a lot from the team.,4,Positive
+INT-0321,"The company provided a positive learning environment. Overall, this was my experience.",4,Positive
+INT-0322,The internship was excellent and I learned a lot from the team. I think the program can be improved.,5,Positive
+INT-0323,My mentor was supportive and explained tasks clearly. I would like more opportunities like this.,5,Positive
+INT-0324,The team was fine and the internship met basic expectations. More regular meetings would be helpful.,3,Neutral
+INT-0325,The internship was okay and I completed the assigned tasks. I think the program can be improved.,3,Neutral
+INT-0326,"I was happy with the learning opportunities provided. Overall, this was my experience.",5,Positive
+INT-0327,The tasks were manageable and the overall experience was normal. I would like more opportunities like this.,3,Neutral
+INT-0328,The team was fine and the internship met basic expectations. More regular meetings would be helpful.,3,Neutral
+INT-0329,I was unhappy with the lack of communication. I would recommend the internship.,2,Negative
+INT-0330,The tasks were manageable and the overall experience was normal. I would recommend the internship.,3,Neutral
+INT-0331,Communication with the team was poor and frustrating. I think the program can be improved.,1,Negative
+INT-0332,The internship gave me valuable real world experience. I think the program can be improved.,4,Positive
+INT-0333,The team environment was friendly and motivating. I would recommend the internship.,5,Positive
+INT-0334,"The feedback from my supervisor helped me improve quickly. Overall, this was my experience.",4,Positive
+INT-0335,"My mentor was unavailable and I did not receive enough guidance. Overall, this was my experience.",2,Negative
+INT-0336,There was confusion about responsibilities and deadlines. I would recommend the internship.,1,Negative
+INT-0337,I was unhappy with the lack of communication. I would recommend the internship.,1,Negative
+INT-0338,The tasks were interesting and helped me build my skills. I would recommend the internship.,5,Positive
+INT-0339,The tasks were unclear and difficult to understand.,1,Negative
+INT-0340,The company provided a positive learning environment. I think the program can be improved.,4,Positive
+INT-0341,The internship did not provide enough practical learning. I would recommend the internship.,1,Negative
+INT-0342,The internship was okay and I completed the assigned tasks.,3,Neutral
+INT-0343,My mentor was unavailable and I did not receive enough guidance. I would like more opportunities like this.,2,Negative
+INT-0344,The team environment was friendly and motivating. I think the program can be improved.,4,Positive
+INT-0345,The feedback from my supervisor helped me improve quickly.,5,Positive
+INT-0346,I really enjoyed working with the team. I think the program can be improved.,4,Positive
+INT-0347,I really enjoyed working with the team.,5,Positive
+INT-0348,Communication with the team was poor and frustrating. I think the program can be improved.,1,Negative
+INT-0349,The communication with my mentor was clear and helpful. I think the program can be improved.,5,Positive
+INT-0350,"The projects were repetitive and did not improve my skills. Overall, this was my experience.",1,Negative
+INT-0351,The experience was average with both good and difficult moments. More regular meetings would be helpful.,3,Neutral
+INT-0352,The internship did not provide enough practical learning. I would recommend the internship.,1,Negative
+INT-0353,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,1,Negative
+INT-0354,The communication with my mentor was clear and helpful. I think the program can be improved.,5,Positive
+INT-0355,I received very little feedback about my work. I would recommend the internship.,1,Negative
+INT-0356,The tasks were manageable and the overall experience was normal. I would like more opportunities like this.,3,Neutral
+INT-0357,The company provided a positive learning environment.,5,Positive
+INT-0358,I really enjoyed working with the team. More regular meetings would be helpful.,4,Positive
+INT-0359,The training was insufficient and I needed more help. I think the program can be improved.,2,Negative
+INT-0360,"I received very little feedback about my work. Overall, this was my experience.",1,Negative
+INT-0361,I felt unsupported during most of the internship.,2,Negative
+INT-0362,The internship gave me valuable real world experience.,5,Positive
+INT-0363,"My experience was neither very good nor very bad. Overall, this was my experience.",3,Neutral
+INT-0364,The internship was excellent and I learned a lot from the team. More regular meetings would be helpful.,4,Positive
+INT-0365,The tasks were interesting and helped me build my skills.,4,Positive
+INT-0366,The communication with my mentor was clear and helpful.,5,Positive
+INT-0367,I really enjoyed working with the team. I would like more opportunities like this.,5,Positive
+INT-0368,I felt unsupported during most of the internship. More regular meetings would be helpful.,2,Negative
+INT-0369,I received very little feedback about my work.,2,Negative
+INT-0370,The internship was disappointing and I did not learn enough. More regular meetings would be helpful.,1,Negative
+INT-0371,The feedback from my supervisor helped me improve quickly. I would recommend the internship.,5,Positive
+INT-0372,The team environment was friendly and motivating. I would recommend the internship.,5,Positive
+INT-0373,"The tasks were manageable and the overall experience was normal. Overall, this was my experience.",3,Neutral
+INT-0374,"I enjoyed the projects and gained useful practical skills. Overall, this was my experience.",4,Positive
+INT-0375,The tasks were manageable and the overall experience was normal. I would like more opportunities like this.,3,Neutral
+INT-0376,The company provided a positive learning environment. More regular meetings would be helpful.,4,Positive
+INT-0377,I felt unsupported during most of the internship. I would like more opportunities like this.,1,Negative
+INT-0378,The internship was excellent and I learned a lot from the team. I would recommend the internship.,4,Positive
+INT-0379,The internship did not provide enough practical learning. More regular meetings would be helpful.,2,Negative
+INT-0380,I enjoyed the projects and gained useful practical skills. I would recommend the internship.,4,Positive
+INT-0381,Communication with the team was poor and frustrating.,1,Negative
+INT-0382,The internship was okay and I completed the assigned tasks.,3,Neutral
+INT-0383,The tasks were manageable and the overall experience was normal.,3,Neutral
+INT-0384,The feedback from my supervisor helped me improve quickly.,4,Positive
+INT-0385,Communication with the team was poor and frustrating. I would recommend the internship.,1,Negative
+INT-0386,The learning opportunities were reasonable. I think the program can be improved.,3,Neutral
+INT-0387,I felt unsupported during most of the internship. I would recommend the internship.,1,Negative
+INT-0388,The team environment was friendly and motivating.,4,Positive
+INT-0389,"I felt unsupported during most of the internship. Overall, this was my experience.",2,Negative
+INT-0390,The team environment was friendly and motivating. More regular meetings would be helpful.,5,Positive
+INT-0391,The internship was disappointing and I did not learn enough. I would recommend the internship.,2,Negative
+INT-0392,The experience was average with both good and difficult moments. More regular meetings would be helpful.,3,Neutral
+INT-0393,"The internship was okay and I completed the assigned tasks. Overall, this was my experience.",3,Neutral
+INT-0394,My mentor was supportive and explained tasks clearly.,4,Positive
+INT-0395,I was happy with the learning opportunities provided. I would recommend the internship.,4,Positive
+INT-0396,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",5,Positive
+INT-0397,The team was fine and the internship met basic expectations.,3,Neutral
+INT-0398,"The internship gave me valuable real world experience. Overall, this was my experience.",5,Positive
+INT-0399,I enjoyed the projects and gained useful practical skills. I would recommend the internship.,4,Positive
+INT-0400,The internship was okay and I completed the assigned tasks.,3,Neutral
+INT-0401,Communication with the team was poor and frustrating. I would like more opportunities like this.,2,Negative
+INT-0402,The workload was stressful and the schedule was poorly organized. I think the program can be improved.,1,Negative
+INT-0403,I received very little feedback about my work. More regular meetings would be helpful.,1,Negative
+INT-0404,The experience was average with both good and difficult moments. I would recommend the internship.,3,Neutral
+INT-0405,I completed my work and received some feedback from my mentor. I would recommend the internship.,3,Neutral
+INT-0406,My mentor was unavailable and I did not receive enough guidance. I would like more opportunities like this.,2,Negative
+INT-0407,I really enjoyed working with the team. More regular meetings would be helpful.,4,Positive
+INT-0408,The internship was okay and I completed the assigned tasks. I would recommend the internship.,3,Neutral
+INT-0409,Communication with the team was poor and frustrating. More regular meetings would be helpful.,1,Negative
+INT-0410,The internship gave me valuable real world experience. I think the program can be improved.,5,Positive
+INT-0411,The experience was average with both good and difficult moments. I would recommend the internship.,3,Neutral
+INT-0412,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,1,Negative
+INT-0413,"The communication with my mentor was clear and helpful. Overall, this was my experience.",5,Positive
+INT-0414,The feedback from my supervisor helped me improve quickly. More regular meetings would be helpful.,5,Positive
+INT-0415,The training was insufficient and I needed more help. I would recommend the internship.,2,Negative
+INT-0416,There was confusion about responsibilities and deadlines. I would like more opportunities like this.,2,Negative
+INT-0417,The team was fine and the internship met basic expectations. More regular meetings would be helpful.,3,Neutral
+INT-0418,There was confusion about responsibilities and deadlines. I think the program can be improved.,1,Negative
+INT-0419,The company provided a positive learning environment. I would recommend the internship.,5,Positive
+INT-0420,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,1,Negative
+INT-0421,My mentor was unavailable and I did not receive enough guidance. More regular meetings would be helpful.,1,Negative
+INT-0422,The learning opportunities were reasonable. I would like more opportunities like this.,3,Neutral
+INT-0423,The projects were repetitive and did not improve my skills. I would like more opportunities like this.,1,Negative
+INT-0424,The training was insufficient and I needed more help. More regular meetings would be helpful.,1,Negative
+INT-0425,The team was fine and the internship met basic expectations. More regular meetings would be helpful.,3,Neutral
+INT-0426,My mentor was supportive and explained tasks clearly.,5,Positive
+INT-0427,I really enjoyed working with the team. More regular meetings would be helpful.,5,Positive
+INT-0428,"The learning opportunities were reasonable. Overall, this was my experience.",3,Neutral
+INT-0429,I completed my work and received some feedback from my mentor. I think the program can be improved.,3,Neutral
+INT-0430,The tasks were unclear and difficult to understand. More regular meetings would be helpful.,1,Negative
+INT-0431,"The company provided a positive learning environment. Overall, this was my experience.",5,Positive
+INT-0432,I really enjoyed working with the team. I would recommend the internship.,5,Positive
+INT-0433,The projects were repetitive and did not improve my skills.,2,Negative
+INT-0434,I enjoyed the projects and gained useful practical skills. More regular meetings would be helpful.,5,Positive
+INT-0435,The feedback from my supervisor helped me improve quickly. More regular meetings would be helpful.,4,Positive
+INT-0436,The communication with my mentor was clear and helpful. I would like more opportunities like this.,4,Positive
+INT-0437,The projects were repetitive and did not improve my skills. I think the program can be improved.,2,Negative
+INT-0438,"I really enjoyed working with the team. Overall, this was my experience.",4,Positive
+INT-0439,The tasks were unclear and difficult to understand.,2,Negative
+INT-0440,I really enjoyed working with the team. I would like more opportunities like this.,5,Positive
+INT-0441,My mentor was supportive and explained tasks clearly. I would recommend the internship.,5,Positive
+INT-0442,The team environment was friendly and motivating.,5,Positive
+INT-0443,I really enjoyed working with the team. I think the program can be improved.,5,Positive
+INT-0444,There was confusion about responsibilities and deadlines. I think the program can be improved.,2,Negative
+INT-0445,I was happy with the learning opportunities provided. I think the program can be improved.,4,Positive
+INT-0446,The tasks were interesting and helped me build my skills. I think the program can be improved.,5,Positive
+INT-0447,I received very little feedback about my work. I would recommend the internship.,2,Negative
+INT-0448,The tasks were interesting and helped me build my skills.,5,Positive
+INT-0449,The training was insufficient and I needed more help.,1,Negative
+INT-0450,The tasks were manageable and the overall experience was normal. I would like more opportunities like this.,3,Neutral
+INT-0451,The projects were repetitive and did not improve my skills. More regular meetings would be helpful.,1,Negative
+INT-0452,I was happy with the learning opportunities provided. I would like more opportunities like this.,5,Positive
+INT-0453,The workload was acceptable for most of the internship.,3,Neutral
+INT-0454,The workload was acceptable for most of the internship.,3,Neutral
+INT-0455,The internship did not provide enough practical learning. I would like more opportunities like this.,2,Negative
+INT-0456,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,2,Negative
+INT-0457,I was happy with the learning opportunities provided. I think the program can be improved.,5,Positive
+INT-0458,The team environment was friendly and motivating. I think the program can be improved.,4,Positive
+INT-0459,The team environment was friendly and motivating. I think the program can be improved.,4,Positive
+INT-0460,My experience was neither very good nor very bad. I think the program can be improved.,3,Neutral
+INT-0461,I enjoyed the projects and gained useful practical skills. More regular meetings would be helpful.,4,Positive
+INT-0462,My mentor was unavailable and I did not receive enough guidance. I would like more opportunities like this.,2,Negative
+INT-0463,My mentor was unavailable and I did not receive enough guidance. I would recommend the internship.,2,Negative
+INT-0464,I received good guidance and felt confident completing my tasks. I would like more opportunities like this.,5,Positive
+INT-0465,I enjoyed the projects and gained useful practical skills. More regular meetings would be helpful.,4,Positive
+INT-0466,I was unhappy with the lack of communication. I would like more opportunities like this.,2,Negative
+INT-0467,The company provided a positive learning environment. I would recommend the internship.,5,Positive
+INT-0468,The tasks were unclear and difficult to understand. More regular meetings would be helpful.,1,Negative
+INT-0469,I was unhappy with the lack of communication. I would recommend the internship.,1,Negative
+INT-0470,The team was fine and the internship met basic expectations. I would like more opportunities like this.,3,Neutral
+INT-0471,I felt unsupported during most of the internship. I would like more opportunities like this.,2,Negative
+INT-0472,I felt unsupported during most of the internship. I think the program can be improved.,2,Negative
+INT-0473,The internship was okay and I completed the assigned tasks.,3,Neutral
+INT-0474,"My mentor was unavailable and I did not receive enough guidance. Overall, this was my experience.",1,Negative
+INT-0475,The learning opportunities were reasonable. I would like more opportunities like this.,3,Neutral
+INT-0476,Communication with the team was poor and frustrating. More regular meetings would be helpful.,1,Negative
+INT-0477,"The feedback from my supervisor helped me improve quickly. Overall, this was my experience.",5,Positive
+INT-0478,"I received very little feedback about my work. Overall, this was my experience.",2,Negative
+INT-0479,The workload was acceptable for most of the internship. More regular meetings would be helpful.,3,Neutral
+INT-0480,"I enjoyed the projects and gained useful practical skills. Overall, this was my experience.",5,Positive
+INT-0481,There was confusion about responsibilities and deadlines.,1,Negative
+INT-0482,The internship gave me valuable real world experience.,5,Positive
+INT-0483,My mentor was supportive and explained tasks clearly. I think the program can be improved.,4,Positive
+INT-0484,The internship gave me valuable real world experience. I would like more opportunities like this.,4,Positive
+INT-0485,"The internship was disappointing and I did not learn enough. Overall, this was my experience.",2,Negative
+INT-0486,"The feedback from my supervisor helped me improve quickly. Overall, this was my experience.",5,Positive
+INT-0487,The communication with my mentor was clear and helpful. I would recommend the internship.,4,Positive
+INT-0488,"The tasks were manageable and the overall experience was normal. Overall, this was my experience.",3,Neutral
+INT-0489,The workload was stressful and the schedule was poorly organized. I would recommend the internship.,2,Negative
+INT-0490,"My mentor was supportive and explained tasks clearly. Overall, this was my experience.",5,Positive
+INT-0491,The team environment was friendly and motivating. I would like more opportunities like this.,5,Positive
+INT-0492,I felt unsupported during most of the internship. More regular meetings would be helpful.,2,Negative
+INT-0493,The feedback from my supervisor helped me improve quickly. I think the program can be improved.,4,Positive
+INT-0494,The tasks were unclear and difficult to understand. I would recommend the internship.,2,Negative
+INT-0495,The feedback from my supervisor helped me improve quickly. I would recommend the internship.,4,Positive
+INT-0496,The experience was average with both good and difficult moments. I would recommend the internship.,3,Neutral
+INT-0497,I completed my work and received some feedback from my mentor.,3,Neutral
+INT-0498,My mentor was unavailable and I did not receive enough guidance. More regular meetings would be helpful.,1,Negative
+INT-0499,I enjoyed the projects and gained useful practical skills.,5,Positive
+INT-0500,The workload was acceptable for most of the internship. More regular meetings would be helpful.,3,Neutral
+INT-0501,I enjoyed the projects and gained useful practical skills. I think the program can be improved.,4,Positive
+INT-0502,The team environment was friendly and motivating. I would recommend the internship.,5,Positive
+INT-0503,"I felt unsupported during most of the internship. Overall, this was my experience.",1,Negative
+INT-0504,The workload was stressful and the schedule was poorly organized. I think the program can be improved.,1,Negative
+INT-0505,The internship was disappointing and I did not learn enough. More regular meetings would be helpful.,1,Negative
+INT-0506,The team environment was friendly and motivating. I would like more opportunities like this.,4,Positive
+INT-0507,My experience was neither very good nor very bad. More regular meetings would be helpful.,3,Neutral
+INT-0508,The internship gave me valuable real world experience. I would like more opportunities like this.,5,Positive
+INT-0509,My mentor was unavailable and I did not receive enough guidance. More regular meetings would be helpful.,1,Negative
+INT-0510,I felt unsupported during most of the internship. I would recommend the internship.,2,Negative
+INT-0511,The internship was excellent and I learned a lot from the team. I think the program can be improved.,4,Positive
+INT-0512,I was unhappy with the lack of communication. I would like more opportunities like this.,2,Negative
+INT-0513,The internship was okay and I completed the assigned tasks. More regular meetings would be helpful.,3,Neutral
+INT-0514,I was unhappy with the lack of communication. More regular meetings would be helpful.,2,Negative
+INT-0515,The internship was excellent and I learned a lot from the team. I think the program can be improved.,4,Positive
+INT-0516,The team environment was friendly and motivating. I would recommend the internship.,5,Positive
+INT-0517,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,4,Positive
+INT-0518,I felt unsupported during most of the internship. I would recommend the internship.,1,Negative
+INT-0519,The experience was average with both good and difficult moments. I would like more opportunities like this.,3,Neutral
+INT-0520,The team environment was friendly and motivating. I would recommend the internship.,4,Positive
+INT-0521,The feedback from my supervisor helped me improve quickly.,4,Positive
+INT-0522,I was happy with the learning opportunities provided.,5,Positive
+INT-0523,The learning opportunities were reasonable. I would recommend the internship.,3,Neutral
+INT-0524,The internship was excellent and I learned a lot from the team. More regular meetings would be helpful.,4,Positive
+INT-0525,I was happy with the learning opportunities provided.,4,Positive
+INT-0526,"My mentor was unavailable and I did not receive enough guidance. Overall, this was my experience.",2,Negative
+INT-0527,The team was fine and the internship met basic expectations. More regular meetings would be helpful.,3,Neutral
+INT-0528,The internship was excellent and I learned a lot from the team. I would like more opportunities like this.,4,Positive
+INT-0529,The internship was okay and I completed the assigned tasks. I think the program can be improved.,3,Neutral
+INT-0530,The workload was acceptable for most of the internship. I would like more opportunities like this.,3,Neutral
+INT-0531,The tasks were manageable and the overall experience was normal. More regular meetings would be helpful.,3,Neutral
+INT-0532,Communication with the team was poor and frustrating.,2,Negative
+INT-0533,The feedback from my supervisor helped me improve quickly. I think the program can be improved.,5,Positive
+INT-0534,I was happy with the learning opportunities provided. I would like more opportunities like this.,4,Positive
+INT-0535,I enjoyed the projects and gained useful practical skills.,5,Positive
+INT-0536,"I felt unsupported during most of the internship. Overall, this was my experience.",1,Negative
+INT-0537,I received very little feedback about my work. I think the program can be improved.,2,Negative
+INT-0538,My experience was neither very good nor very bad.,3,Neutral
+INT-0539,The communication with my mentor was clear and helpful. I would like more opportunities like this.,4,Positive
+INT-0540,The workload was stressful and the schedule was poorly organized. More regular meetings would be helpful.,1,Negative
+INT-0541,I received very little feedback about my work. More regular meetings would be helpful.,2,Negative
+INT-0542,The team environment was friendly and motivating. More regular meetings would be helpful.,4,Positive
+INT-0543,The team environment was friendly and motivating. I think the program can be improved.,4,Positive
+INT-0544,The tasks were interesting and helped me build my skills. I would like more opportunities like this.,5,Positive
+INT-0545,There was confusion about responsibilities and deadlines. I think the program can be improved.,2,Negative
+INT-0546,The tasks were manageable and the overall experience was normal.,3,Neutral
+INT-0547,"The internship did not provide enough practical learning. Overall, this was my experience.",1,Negative
+INT-0548,I was happy with the learning opportunities provided.,5,Positive
+INT-0549,I completed my work and received some feedback from my mentor.,3,Neutral
+INT-0550,The internship gave me valuable real world experience. I would recommend the internship.,5,Positive
+INT-0551,I was unhappy with the lack of communication. I would recommend the internship.,2,Negative
+INT-0552,The internship was disappointing and I did not learn enough.,1,Negative
+INT-0553,The tasks were unclear and difficult to understand. More regular meetings would be helpful.,1,Negative
+INT-0554,The internship was disappointing and I did not learn enough. I would like more opportunities like this.,2,Negative
+INT-0555,The workload was acceptable for most of the internship. More regular meetings would be helpful.,3,Neutral
+INT-0556,"The internship was disappointing and I did not learn enough. Overall, this was my experience.",1,Negative
+INT-0557,My mentor was unavailable and I did not receive enough guidance. More regular meetings would be helpful.,1,Negative
+INT-0558,The tasks were unclear and difficult to understand. I would recommend the internship.,2,Negative
+INT-0559,The workload was acceptable for most of the internship.,3,Neutral
+INT-0560,The tasks were unclear and difficult to understand.,2,Negative
+INT-0561,My mentor was supportive and explained tasks clearly. More regular meetings would be helpful.,4,Positive
+INT-0562,There was confusion about responsibilities and deadlines. I think the program can be improved.,1,Negative
+INT-0563,The learning opportunities were reasonable. I think the program can be improved.,3,Neutral
+INT-0564,The internship did not provide enough practical learning. I would recommend the internship.,1,Negative
+INT-0565,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",5,Positive
+INT-0566,The internship was okay and I completed the assigned tasks. I would like more opportunities like this.,3,Neutral
+INT-0567,The tasks were interesting and helped me build my skills. I would recommend the internship.,5,Positive
+INT-0568,The internship was disappointing and I did not learn enough. More regular meetings would be helpful.,2,Negative
+INT-0569,I felt unsupported during most of the internship. I think the program can be improved.,1,Negative
+INT-0570,The tasks were interesting and helped me build my skills. I think the program can be improved.,5,Positive
+INT-0571,The internship gave me valuable real world experience.,4,Positive
+INT-0572,The internship gave me valuable real world experience. I would recommend the internship.,4,Positive
+INT-0573,I received good guidance and felt confident completing my tasks. I would like more opportunities like this.,4,Positive
+INT-0574,The internship was okay and I completed the assigned tasks. I would like more opportunities like this.,3,Neutral
+INT-0575,I completed my work and received some feedback from my mentor. More regular meetings would be helpful.,3,Neutral
+INT-0576,The company provided a positive learning environment. I think the program can be improved.,5,Positive
+INT-0577,The workload was acceptable for most of the internship. I think the program can be improved.,3,Neutral
+INT-0578,My mentor was unavailable and I did not receive enough guidance. More regular meetings would be helpful.,1,Negative
+INT-0579,The internship was disappointing and I did not learn enough.,1,Negative
+INT-0580,The learning opportunities were reasonable. I would recommend the internship.,3,Neutral
+INT-0581,I felt unsupported during most of the internship. I think the program can be improved.,1,Negative
+INT-0582,I really enjoyed working with the team.,4,Positive
+INT-0583,The workload was acceptable for most of the internship. I would recommend the internship.,3,Neutral
+INT-0584,The internship was excellent and I learned a lot from the team.,5,Positive
+INT-0585,My mentor was unavailable and I did not receive enough guidance.,1,Negative
+INT-0586,"The projects were repetitive and did not improve my skills. Overall, this was my experience.",1,Negative
+INT-0587,I received good guidance and felt confident completing my tasks.,4,Positive
+INT-0588,The communication with my mentor was clear and helpful. I think the program can be improved.,4,Positive
+INT-0589,The tasks were manageable and the overall experience was normal. I would like more opportunities like this.,3,Neutral
+INT-0590,The internship was okay and I completed the assigned tasks. I would recommend the internship.,3,Neutral
+INT-0591,The learning opportunities were reasonable. I would recommend the internship.,3,Neutral
+INT-0592,The workload was acceptable for most of the internship. More regular meetings would be helpful.,3,Neutral
+INT-0593,"The company provided a positive learning environment. Overall, this was my experience.",5,Positive
+INT-0594,I received very little feedback about my work.,2,Negative
+INT-0595,The workload was acceptable for most of the internship. More regular meetings would be helpful.,3,Neutral
+INT-0596,The projects were repetitive and did not improve my skills. More regular meetings would be helpful.,1,Negative
+INT-0597,The team environment was friendly and motivating. I would like more opportunities like this.,4,Positive
+INT-0598,The feedback from my supervisor helped me improve quickly. I would recommend the internship.,5,Positive
+INT-0599,The projects were repetitive and did not improve my skills. I would like more opportunities like this.,1,Negative
+INT-0600,The internship did not provide enough practical learning. I would recommend the internship.,1,Negative
+INT-0601,I really enjoyed working with the team. I would like more opportunities like this.,4,Positive
+INT-0602,The company provided a positive learning environment. I think the program can be improved.,4,Positive
+INT-0603,My experience was neither very good nor very bad.,3,Neutral
+INT-0604,The internship gave me valuable real world experience. More regular meetings would be helpful.,4,Positive
+INT-0605,My mentor was supportive and explained tasks clearly. I would like more opportunities like this.,4,Positive
+INT-0606,I received very little feedback about my work. I would like more opportunities like this.,2,Negative
+INT-0607,I felt unsupported during most of the internship. I would like more opportunities like this.,2,Negative
+INT-0608,My experience was neither very good nor very bad. I think the program can be improved.,3,Neutral
+INT-0609,The team was fine and the internship met basic expectations.,3,Neutral
+INT-0610,My mentor was supportive and explained tasks clearly. More regular meetings would be helpful.,4,Positive
+INT-0611,The tasks were unclear and difficult to understand.,2,Negative
+INT-0612,The team environment was friendly and motivating. I would recommend the internship.,5,Positive
+INT-0613,The internship gave me valuable real world experience. I would like more opportunities like this.,5,Positive
+INT-0614,The tasks were unclear and difficult to understand. I would recommend the internship.,2,Negative
+INT-0615,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",5,Positive
+INT-0616,"The tasks were interesting and helped me build my skills. Overall, this was my experience.",5,Positive
+INT-0617,I enjoyed the projects and gained useful practical skills. More regular meetings would be helpful.,5,Positive
+INT-0618,The internship was disappointing and I did not learn enough.,2,Negative
+INT-0619,I completed my work and received some feedback from my mentor. I would recommend the internship.,3,Neutral
+INT-0620,The workload was stressful and the schedule was poorly organized. More regular meetings would be helpful.,2,Negative
+INT-0621,The tasks were interesting and helped me build my skills. I would like more opportunities like this.,5,Positive
+INT-0622,The tasks were unclear and difficult to understand. I would recommend the internship.,2,Negative
+INT-0623,The internship was okay and I completed the assigned tasks. More regular meetings would be helpful.,3,Neutral
+INT-0624,The tasks were manageable and the overall experience was normal. More regular meetings would be helpful.,3,Neutral
+INT-0625,"The communication with my mentor was clear and helpful. Overall, this was my experience.",5,Positive
+INT-0626,The training was insufficient and I needed more help. More regular meetings would be helpful.,2,Negative
+INT-0627,"The tasks were unclear and difficult to understand. Overall, this was my experience.",2,Negative
+INT-0628,I was happy with the learning opportunities provided. I think the program can be improved.,4,Positive
+INT-0629,"The internship did not provide enough practical learning. Overall, this was my experience.",2,Negative
+INT-0630,"I received very little feedback about my work. Overall, this was my experience.",2,Negative
+INT-0631,The internship was disappointing and I did not learn enough. More regular meetings would be helpful.,2,Negative
+INT-0632,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",5,Positive
+INT-0633,The feedback from my supervisor helped me improve quickly. More regular meetings would be helpful.,4,Positive
+INT-0634,The training was insufficient and I needed more help.,1,Negative
+INT-0635,The internship gave me valuable real world experience. I would recommend the internship.,4,Positive
+INT-0636,The company provided a positive learning environment. I would like more opportunities like this.,4,Positive
+INT-0637,The team environment was friendly and motivating. I would like more opportunities like this.,5,Positive
+INT-0638,"I was unhappy with the lack of communication. Overall, this was my experience.",1,Negative
+INT-0639,"The communication with my mentor was clear and helpful. Overall, this was my experience.",4,Positive
+INT-0640,I received good guidance and felt confident completing my tasks. I would like more opportunities like this.,4,Positive
+INT-0641,"The feedback from my supervisor helped me improve quickly. Overall, this was my experience.",4,Positive
+INT-0642,I felt unsupported during most of the internship. I would recommend the internship.,1,Negative
+INT-0643,The tasks were unclear and difficult to understand. I think the program can be improved.,2,Negative
+INT-0644,The learning opportunities were reasonable. I would like more opportunities like this.,3,Neutral
+INT-0645,I completed my work and received some feedback from my mentor. I would like more opportunities like this.,3,Neutral
+INT-0646,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,4,Positive
+INT-0647,"I received very little feedback about my work. Overall, this was my experience.",1,Negative
+INT-0648,The tasks were unclear and difficult to understand. I would like more opportunities like this.,1,Negative
+INT-0649,The feedback from my supervisor helped me improve quickly. I would recommend the internship.,4,Positive
+INT-0650,I received good guidance and felt confident completing my tasks. More regular meetings would be helpful.,5,Positive
+INT-0651,The internship gave me valuable real world experience. I would recommend the internship.,5,Positive
+INT-0652,The internship did not provide enough practical learning. I think the program can be improved.,2,Negative
+INT-0653,The team was fine and the internship met basic expectations.,3,Neutral
+INT-0654,"The workload was stressful and the schedule was poorly organized. Overall, this was my experience.",2,Negative
+INT-0655,I was unhappy with the lack of communication. More regular meetings would be helpful.,1,Negative
+INT-0656,The tasks were interesting and helped me build my skills. I think the program can be improved.,4,Positive
+INT-0657,The workload was stressful and the schedule was poorly organized. More regular meetings would be helpful.,1,Negative
+INT-0658,There was confusion about responsibilities and deadlines. I think the program can be improved.,2,Negative
+INT-0659,I really enjoyed working with the team. I would like more opportunities like this.,5,Positive
+INT-0660,"The internship was disappointing and I did not learn enough. Overall, this was my experience.",2,Negative
+INT-0661,The workload was acceptable for most of the internship. I would recommend the internship.,3,Neutral
+INT-0662,I really enjoyed working with the team. More regular meetings would be helpful.,4,Positive
+INT-0663,The communication with my mentor was clear and helpful. I think the program can be improved.,5,Positive
+INT-0664,The company provided a positive learning environment. I think the program can be improved.,5,Positive
+INT-0665,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,4,Positive
+INT-0666,I enjoyed the projects and gained useful practical skills.,5,Positive
+INT-0667,The internship was excellent and I learned a lot from the team. I would recommend the internship.,5,Positive
+INT-0668,The tasks were interesting and helped me build my skills. I would like more opportunities like this.,5,Positive
+INT-0669,The workload was acceptable for most of the internship. I would like more opportunities like this.,3,Neutral
+INT-0670,My experience was neither very good nor very bad. I would recommend the internship.,3,Neutral
+INT-0671,The internship did not provide enough practical learning. More regular meetings would be helpful.,2,Negative
+INT-0672,I enjoyed the projects and gained useful practical skills.,4,Positive
+INT-0673,The internship was excellent and I learned a lot from the team.,4,Positive
+INT-0674,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",5,Positive
+INT-0675,"I felt unsupported during most of the internship. Overall, this was my experience.",1,Negative
+INT-0676,I really enjoyed working with the team. I would recommend the internship.,5,Positive
+INT-0677,I received very little feedback about my work.,2,Negative
+INT-0678,The internship was excellent and I learned a lot from the team. I think the program can be improved.,5,Positive
+INT-0679,My experience was neither very good nor very bad. I would recommend the internship.,3,Neutral
+INT-0680,The feedback from my supervisor helped me improve quickly. I would recommend the internship.,5,Positive
+INT-0681,The feedback from my supervisor helped me improve quickly. I would like more opportunities like this.,4,Positive
+INT-0682,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",4,Positive
+INT-0683,"I was unhappy with the lack of communication. Overall, this was my experience.",2,Negative
+INT-0684,The experience was average with both good and difficult moments. More regular meetings would be helpful.,3,Neutral
+INT-0685,I enjoyed the projects and gained useful practical skills. I would recommend the internship.,5,Positive
+INT-0686,"The tasks were unclear and difficult to understand. Overall, this was my experience.",1,Negative
+INT-0687,The feedback from my supervisor helped me improve quickly. I would recommend the internship.,4,Positive
+INT-0688,I enjoyed the projects and gained useful practical skills. More regular meetings would be helpful.,4,Positive
+INT-0689,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,5,Positive
+INT-0690,The workload was acceptable for most of the internship. I think the program can be improved.,3,Neutral
+INT-0691,The team environment was friendly and motivating. I would like more opportunities like this.,4,Positive
+INT-0692,The internship was excellent and I learned a lot from the team. I think the program can be improved.,5,Positive
+INT-0693,The feedback from my supervisor helped me improve quickly.,4,Positive
+INT-0694,The team environment was friendly and motivating. I would recommend the internship.,4,Positive
+INT-0695,"My mentor was unavailable and I did not receive enough guidance. Overall, this was my experience.",1,Negative
+INT-0696,The feedback from my supervisor helped me improve quickly. I think the program can be improved.,5,Positive
+INT-0697,My experience was neither very good nor very bad. I would recommend the internship.,3,Neutral
+INT-0698,I enjoyed the projects and gained useful practical skills.,5,Positive
+INT-0699,My mentor was supportive and explained tasks clearly. I think the program can be improved.,5,Positive
+INT-0700,"The communication with my mentor was clear and helpful. Overall, this was my experience.",4,Positive
+INT-0701,"The internship was okay and I completed the assigned tasks. Overall, this was my experience.",3,Neutral
+INT-0702,The internship was disappointing and I did not learn enough. I would like more opportunities like this.,2,Negative
+INT-0703,"I felt unsupported during most of the internship. Overall, this was my experience.",1,Negative
+INT-0704,The training was insufficient and I needed more help. More regular meetings would be helpful.,1,Negative
+INT-0705,My mentor was supportive and explained tasks clearly. I think the program can be improved.,4,Positive
+INT-0706,I felt unsupported during most of the internship.,2,Negative
+INT-0707,I received very little feedback about my work.,2,Negative
+INT-0708,The communication with my mentor was clear and helpful. I would like more opportunities like this.,5,Positive
+INT-0709,The projects were repetitive and did not improve my skills. I would like more opportunities like this.,2,Negative
+INT-0710,The workload was stressful and the schedule was poorly organized. I would recommend the internship.,2,Negative
+INT-0711,The learning opportunities were reasonable. I would recommend the internship.,3,Neutral
+INT-0712,The company provided a positive learning environment. I think the program can be improved.,4,Positive
+INT-0713,The internship was disappointing and I did not learn enough. I would like more opportunities like this.,2,Negative
+INT-0714,My mentor was supportive and explained tasks clearly.,5,Positive
+INT-0715,The internship gave me valuable real world experience. I think the program can be improved.,5,Positive
+INT-0716,I completed my work and received some feedback from my mentor. More regular meetings would be helpful.,3,Neutral
+INT-0717,"I really enjoyed working with the team. Overall, this was my experience.",4,Positive
+INT-0718,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,5,Positive
+INT-0719,The learning opportunities were reasonable.,3,Neutral
+INT-0720,"The internship was excellent and I learned a lot from the team. Overall, this was my experience.",5,Positive
+INT-0721,The training was insufficient and I needed more help. More regular meetings would be helpful.,1,Negative
+INT-0722,The internship was excellent and I learned a lot from the team.,5,Positive
+INT-0723,I really enjoyed working with the team. More regular meetings would be helpful.,4,Positive
+INT-0724,"The company provided a positive learning environment. Overall, this was my experience.",4,Positive
+INT-0725,The internship gave me valuable real world experience. I would like more opportunities like this.,5,Positive
+INT-0726,The learning opportunities were reasonable. I would like more opportunities like this.,3,Neutral
+INT-0727,"The tasks were unclear and difficult to understand. Overall, this was my experience.",1,Negative
+INT-0728,The communication with my mentor was clear and helpful. More regular meetings would be helpful.,4,Positive
+INT-0729,The internship was okay and I completed the assigned tasks. More regular meetings would be helpful.,3,Neutral
+INT-0730,"The projects were repetitive and did not improve my skills. Overall, this was my experience.",1,Negative
+INT-0731,My mentor was unavailable and I did not receive enough guidance. I would recommend the internship.,1,Negative
+INT-0732,The workload was stressful and the schedule was poorly organized. I would like more opportunities like this.,1,Negative
+INT-0733,"My experience was neither very good nor very bad. Overall, this was my experience.",3,Neutral
+INT-0734,The company provided a positive learning environment. I would recommend the internship.,5,Positive
+INT-0735,The experience was average with both good and difficult moments. I would like more opportunities like this.,3,Neutral
+INT-0736,"The workload was acceptable for most of the internship. Overall, this was my experience.",3,Neutral
+INT-0737,The team environment was friendly and motivating. I would like more opportunities like this.,4,Positive
+INT-0738,I enjoyed the projects and gained useful practical skills. More regular meetings would be helpful.,4,Positive
+INT-0739,The internship was okay and I completed the assigned tasks. I would recommend the internship.,3,Neutral
+INT-0740,"The internship was excellent and I learned a lot from the team. Overall, this was my experience.",5,Positive
+INT-0741,My mentor was unavailable and I did not receive enough guidance. I would recommend the internship.,2,Negative
+INT-0742,The learning opportunities were reasonable. I would like more opportunities like this.,3,Neutral
+INT-0743,"The training was insufficient and I needed more help. Overall, this was my experience.",2,Negative
+INT-0744,The projects were repetitive and did not improve my skills. I would like more opportunities like this.,1,Negative
+INT-0745,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",4,Positive
+INT-0746,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",4,Positive
+INT-0747,"The experience was average with both good and difficult moments. Overall, this was my experience.",3,Neutral
+INT-0748,Communication with the team was poor and frustrating.,2,Negative
+INT-0749,I really enjoyed working with the team. I would like more opportunities like this.,5,Positive
+INT-0750,"The team environment was friendly and motivating. Overall, this was my experience.",4,Positive
+INT-0751,The internship was okay and I completed the assigned tasks. I would like more opportunities like this.,3,Neutral
+INT-0752,The tasks were unclear and difficult to understand. More regular meetings would be helpful.,1,Negative
+INT-0753,I felt unsupported during most of the internship. I think the program can be improved.,1,Negative
+INT-0754,The internship did not provide enough practical learning. I would like more opportunities like this.,1,Negative
+INT-0755,"The projects were repetitive and did not improve my skills. Overall, this was my experience.",2,Negative
+INT-0756,The communication with my mentor was clear and helpful. I would recommend the internship.,4,Positive
+INT-0757,The feedback from my supervisor helped me improve quickly. I would like more opportunities like this.,5,Positive
+INT-0758,"There was confusion about responsibilities and deadlines. Overall, this was my experience.",2,Negative
+INT-0759,The experience was average with both good and difficult moments. More regular meetings would be helpful.,3,Neutral
+INT-0760,I felt unsupported during most of the internship. More regular meetings would be helpful.,2,Negative
+INT-0761,"The internship was disappointing and I did not learn enough. Overall, this was my experience.",2,Negative
+INT-0762,The internship did not provide enough practical learning. I think the program can be improved.,2,Negative
+INT-0763,The internship did not provide enough practical learning. I would recommend the internship.,2,Negative
+INT-0764,The internship was disappointing and I did not learn enough. More regular meetings would be helpful.,2,Negative
+INT-0765,The tasks were manageable and the overall experience was normal. More regular meetings would be helpful.,3,Neutral
+INT-0766,The internship did not provide enough practical learning. I think the program can be improved.,2,Negative
+INT-0767,I received good guidance and felt confident completing my tasks. I would like more opportunities like this.,4,Positive
+INT-0768,I was happy with the learning opportunities provided. I think the program can be improved.,4,Positive
+INT-0769,"The workload was stressful and the schedule was poorly organized. Overall, this was my experience.",2,Negative
+INT-0770,I enjoyed the projects and gained useful practical skills.,5,Positive
+INT-0771,The experience was average with both good and difficult moments.,3,Neutral
+INT-0772,The tasks were unclear and difficult to understand. I would like more opportunities like this.,1,Negative
+INT-0773,Communication with the team was poor and frustrating. I would like more opportunities like this.,1,Negative
+INT-0774,The communication with my mentor was clear and helpful.,4,Positive
+INT-0775,My mentor was unavailable and I did not receive enough guidance. More regular meetings would be helpful.,2,Negative
+INT-0776,"My experience was neither very good nor very bad. Overall, this was my experience.",3,Neutral
+INT-0777,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,4,Positive
+INT-0778,"I was happy with the learning opportunities provided. Overall, this was my experience.",5,Positive
+INT-0779,The workload was acceptable for most of the internship. I would recommend the internship.,3,Neutral
+INT-0780,I felt unsupported during most of the internship.,2,Negative
+INT-0781,The tasks were manageable and the overall experience was normal. I would like more opportunities like this.,3,Neutral
+INT-0782,The projects were repetitive and did not improve my skills. I would like more opportunities like this.,2,Negative
+INT-0783,Communication with the team was poor and frustrating.,1,Negative
+INT-0784,The workload was acceptable for most of the internship.,3,Neutral
+INT-0785,The internship did not provide enough practical learning. I would recommend the internship.,1,Negative
+INT-0786,Communication with the team was poor and frustrating. I think the program can be improved.,1,Negative
+INT-0787,I felt unsupported during most of the internship. More regular meetings would be helpful.,2,Negative
+INT-0788,I received very little feedback about my work. More regular meetings would be helpful.,2,Negative
+INT-0789,The internship gave me valuable real world experience. More regular meetings would be helpful.,4,Positive
+INT-0790,The experience was average with both good and difficult moments.,3,Neutral
+INT-0791,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",4,Positive
+INT-0792,The tasks were unclear and difficult to understand.,1,Negative
+INT-0793,The team environment was friendly and motivating. I think the program can be improved.,4,Positive
+INT-0794,The tasks were interesting and helped me build my skills. I would recommend the internship.,4,Positive
+INT-0795,The internship was disappointing and I did not learn enough. I would recommend the internship.,2,Negative
+INT-0796,The internship was okay and I completed the assigned tasks. I would recommend the internship.,3,Neutral
+INT-0797,"The tasks were unclear and difficult to understand. Overall, this was my experience.",1,Negative
+INT-0798,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",4,Positive
+INT-0799,The experience was average with both good and difficult moments. I would recommend the internship.,3,Neutral
+INT-0800,I was happy with the learning opportunities provided. More regular meetings would be helpful.,5,Positive
+INT-0801,The internship gave me valuable real world experience. I would like more opportunities like this.,5,Positive
+INT-0802,My mentor was unavailable and I did not receive enough guidance. I would like more opportunities like this.,2,Negative
+INT-0803,The team was fine and the internship met basic expectations.,3,Neutral
+INT-0804,I received good guidance and felt confident completing my tasks. More regular meetings would be helpful.,5,Positive
+INT-0805,"The tasks were interesting and helped me build my skills. Overall, this was my experience.",4,Positive
+INT-0806,"The internship was excellent and I learned a lot from the team. Overall, this was my experience.",4,Positive
+INT-0807,The team environment was friendly and motivating. I think the program can be improved.,4,Positive
+INT-0808,"The training was insufficient and I needed more help. Overall, this was my experience.",2,Negative
+INT-0809,"The experience was average with both good and difficult moments. Overall, this was my experience.",3,Neutral
+INT-0810,I really enjoyed working with the team. I think the program can be improved.,4,Positive
+INT-0811,I was happy with the learning opportunities provided. I would recommend the internship.,4,Positive
+INT-0812,The internship gave me valuable real world experience. I would recommend the internship.,4,Positive
+INT-0813,"The feedback from my supervisor helped me improve quickly. Overall, this was my experience.",4,Positive
+INT-0814,I completed my work and received some feedback from my mentor. I would like more opportunities like this.,3,Neutral
+INT-0815,The team was fine and the internship met basic expectations. I would recommend the internship.,3,Neutral
+INT-0816,The team was fine and the internship met basic expectations.,3,Neutral
+INT-0817,"I really enjoyed working with the team. Overall, this was my experience.",5,Positive
+INT-0818,The workload was acceptable for most of the internship. I would like more opportunities like this.,3,Neutral
+INT-0819,The internship did not provide enough practical learning. I would recommend the internship.,2,Negative
+INT-0820,The internship was okay and I completed the assigned tasks. I think the program can be improved.,3,Neutral
+INT-0821,The workload was stressful and the schedule was poorly organized. I think the program can be improved.,1,Negative
+INT-0822,"The internship gave me valuable real world experience. Overall, this was my experience.",5,Positive
+INT-0823,The tasks were interesting and helped me build my skills. I would like more opportunities like this.,5,Positive
+INT-0824,I was unhappy with the lack of communication. I think the program can be improved.,2,Negative
+INT-0825,The company provided a positive learning environment. I would recommend the internship.,5,Positive
+INT-0826,The tasks were interesting and helped me build my skills. I would like more opportunities like this.,5,Positive
+INT-0827,The tasks were interesting and helped me build my skills. I think the program can be improved.,4,Positive
+INT-0828,The internship did not provide enough practical learning. I would like more opportunities like this.,1,Negative
+INT-0829,The learning opportunities were reasonable. More regular meetings would be helpful.,3,Neutral
+INT-0830,My experience was neither very good nor very bad. I would like more opportunities like this.,3,Neutral
+INT-0831,The workload was stressful and the schedule was poorly organized. I would recommend the internship.,2,Negative
+INT-0832,Communication with the team was poor and frustrating.,2,Negative
+INT-0833,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",4,Positive
+INT-0834,The tasks were interesting and helped me build my skills. I would recommend the internship.,4,Positive
+INT-0835,There was confusion about responsibilities and deadlines. I would recommend the internship.,2,Negative
+INT-0836,The team environment was friendly and motivating.,4,Positive
+INT-0837,Communication with the team was poor and frustrating. I would recommend the internship.,2,Negative
+INT-0838,I completed my work and received some feedback from my mentor. I would like more opportunities like this.,3,Neutral
+INT-0839,I was happy with the learning opportunities provided.,4,Positive
+INT-0840,Communication with the team was poor and frustrating. I would like more opportunities like this.,1,Negative
+INT-0841,My mentor was unavailable and I did not receive enough guidance. I would recommend the internship.,1,Negative
+INT-0842,I received good guidance and felt confident completing my tasks. I would like more opportunities like this.,4,Positive
+INT-0843,I received good guidance and felt confident completing my tasks. I think the program can be improved.,5,Positive
+INT-0844,"I received good guidance and felt confident completing my tasks. Overall, this was my experience.",4,Positive
+INT-0845,I was happy with the learning opportunities provided. I think the program can be improved.,4,Positive
+INT-0846,The feedback from my supervisor helped me improve quickly. More regular meetings would be helpful.,4,Positive
+INT-0847,The tasks were unclear and difficult to understand. More regular meetings would be helpful.,1,Negative
+INT-0848,The internship was okay and I completed the assigned tasks. More regular meetings would be helpful.,3,Neutral
+INT-0849,The tasks were unclear and difficult to understand. I would recommend the internship.,2,Negative
+INT-0850,The internship was disappointing and I did not learn enough. More regular meetings would be helpful.,2,Negative
+INT-0851,The projects were repetitive and did not improve my skills. I would recommend the internship.,1,Negative
+INT-0852,My experience was neither very good nor very bad. I would like more opportunities like this.,3,Neutral
+INT-0853,"The internship was disappointing and I did not learn enough. Overall, this was my experience.",1,Negative
+INT-0854,The communication with my mentor was clear and helpful. I think the program can be improved.,5,Positive
+INT-0855,The learning opportunities were reasonable.,3,Neutral
+INT-0856,The company provided a positive learning environment. More regular meetings would be helpful.,4,Positive
+INT-0857,"I felt unsupported during most of the internship. Overall, this was my experience.",1,Negative
+INT-0858,The tasks were manageable and the overall experience was normal. I would like more opportunities like this.,3,Neutral
+INT-0859,The internship was disappointing and I did not learn enough.,1,Negative
+INT-0860,The internship was excellent and I learned a lot from the team. I would recommend the internship.,4,Positive
+INT-0861,The internship did not provide enough practical learning. I would recommend the internship.,1,Negative
+INT-0862,The tasks were interesting and helped me build my skills.,5,Positive
+INT-0863,Communication with the team was poor and frustrating. I would recommend the internship.,1,Negative
+INT-0864,"The internship was disappointing and I did not learn enough. Overall, this was my experience.",2,Negative
+INT-0865,The team was fine and the internship met basic expectations.,3,Neutral
+INT-0866,Communication with the team was poor and frustrating.,2,Negative
+INT-0867,My mentor was unavailable and I did not receive enough guidance. More regular meetings would be helpful.,1,Negative
+INT-0868,I really enjoyed working with the team. I think the program can be improved.,4,Positive
+INT-0869,The experience was average with both good and difficult moments. I would like more opportunities like this.,3,Neutral
+INT-0870,I enjoyed the projects and gained useful practical skills. More regular meetings would be helpful.,4,Positive
+INT-0871,"The feedback from my supervisor helped me improve quickly. Overall, this was my experience.",5,Positive
+INT-0872,The internship gave me valuable real world experience. More regular meetings would be helpful.,5,Positive
+INT-0873,The team environment was friendly and motivating. More regular meetings would be helpful.,4,Positive
+INT-0874,The workload was stressful and the schedule was poorly organized. I think the program can be improved.,1,Negative
+INT-0875,The tasks were manageable and the overall experience was normal. I would recommend the internship.,3,Neutral
+INT-0876,The internship gave me valuable real world experience.,4,Positive
+INT-0877,The tasks were interesting and helped me build my skills. I think the program can be improved.,4,Positive
+INT-0878,I received good guidance and felt confident completing my tasks. I would like more opportunities like this.,5,Positive
+INT-0879,I received very little feedback about my work. I would like more opportunities like this.,1,Negative
+INT-0880,My experience was neither very good nor very bad. I would like more opportunities like this.,3,Neutral
+INT-0881,"The training was insufficient and I needed more help. Overall, this was my experience.",1,Negative
+INT-0882,I completed my work and received some feedback from my mentor. More regular meetings would be helpful.,3,Neutral
+INT-0883,"My mentor was supportive and explained tasks clearly. Overall, this was my experience.",5,Positive
+INT-0884,The internship gave me valuable real world experience. I think the program can be improved.,4,Positive
+INT-0885,The internship was excellent and I learned a lot from the team. I think the program can be improved.,5,Positive
+INT-0886,The team environment was friendly and motivating. I would recommend the internship.,5,Positive
+INT-0887,"The feedback from my supervisor helped me improve quickly. Overall, this was my experience.",4,Positive
+INT-0888,The internship was excellent and I learned a lot from the team. I would like more opportunities like this.,4,Positive
+INT-0889,I received good guidance and felt confident completing my tasks.,4,Positive
+INT-0890,The feedback from my supervisor helped me improve quickly. I would recommend the internship.,4,Positive
+INT-0891,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,4,Positive
+INT-0892,My experience was neither very good nor very bad. More regular meetings would be helpful.,3,Neutral
+INT-0893,The internship did not provide enough practical learning. I think the program can be improved.,2,Negative
+INT-0894,The internship was excellent and I learned a lot from the team. I would recommend the internship.,5,Positive
+INT-0895,My experience was neither very good nor very bad. More regular meetings would be helpful.,3,Neutral
+INT-0896,"I was unhappy with the lack of communication. Overall, this was my experience.",1,Negative
+INT-0897,My experience was neither very good nor very bad. I would like more opportunities like this.,3,Neutral
+INT-0898,I completed my work and received some feedback from my mentor. I would recommend the internship.,3,Neutral
+INT-0899,"I completed my work and received some feedback from my mentor. Overall, this was my experience.",3,Neutral
+INT-0900,The team environment was friendly and motivating. I would recommend the internship.,5,Positive
+INT-0901,"The internship was disappointing and I did not learn enough. Overall, this was my experience.",2,Negative
+INT-0902,I felt unsupported during most of the internship. More regular meetings would be helpful.,2,Negative
+INT-0903,My mentor was supportive and explained tasks clearly. More regular meetings would be helpful.,5,Positive
+INT-0904,I was happy with the learning opportunities provided. More regular meetings would be helpful.,4,Positive
+INT-0905,The team environment was friendly and motivating. More regular meetings would be helpful.,5,Positive
+INT-0906,The experience was average with both good and difficult moments. I would like more opportunities like this.,3,Neutral
+INT-0907,The workload was acceptable for most of the internship. More regular meetings would be helpful.,3,Neutral
+INT-0908,The tasks were interesting and helped me build my skills. I would recommend the internship.,5,Positive
+INT-0909,I received good guidance and felt confident completing my tasks. I think the program can be improved.,4,Positive
+INT-0910,The communication with my mentor was clear and helpful. I think the program can be improved.,4,Positive
+INT-0911,"The internship gave me valuable real world experience. Overall, this was my experience.",4,Positive
+INT-0912,The tasks were interesting and helped me build my skills. I would recommend the internship.,5,Positive
+INT-0913,My experience was neither very good nor very bad. I think the program can be improved.,3,Neutral
+INT-0914,I really enjoyed working with the team. I think the program can be improved.,5,Positive
+INT-0915,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,5,Positive
+INT-0916,I was happy with the learning opportunities provided.,4,Positive
+INT-0917,The feedback from my supervisor helped me improve quickly. More regular meetings would be helpful.,5,Positive
+INT-0918,The tasks were interesting and helped me build my skills. I think the program can be improved.,4,Positive
+INT-0919,The internship was okay and I completed the assigned tasks. I would recommend the internship.,3,Neutral
+INT-0920,Communication with the team was poor and frustrating. I would recommend the internship.,1,Negative
+INT-0921,I was happy with the learning opportunities provided.,4,Positive
+INT-0922,The tasks were manageable and the overall experience was normal. I would like more opportunities like this.,3,Neutral
+INT-0923,My mentor was supportive and explained tasks clearly. More regular meetings would be helpful.,5,Positive
+INT-0924,The projects were repetitive and did not improve my skills. I would recommend the internship.,1,Negative
+INT-0925,"The tasks were interesting and helped me build my skills. Overall, this was my experience.",5,Positive
+INT-0926,I completed my work and received some feedback from my mentor. I would like more opportunities like this.,3,Neutral
+INT-0927,I completed my work and received some feedback from my mentor.,3,Neutral
+INT-0928,My mentor was supportive and explained tasks clearly.,5,Positive
+INT-0929,The tasks were manageable and the overall experience was normal. I would like more opportunities like this.,3,Neutral
+INT-0930,"The tasks were interesting and helped me build my skills. Overall, this was my experience.",4,Positive
+INT-0931,The feedback from my supervisor helped me improve quickly.,5,Positive
+INT-0932,I received good guidance and felt confident completing my tasks. I think the program can be improved.,5,Positive
+INT-0933,The internship was excellent and I learned a lot from the team. I think the program can be improved.,4,Positive
+INT-0934,I was happy with the learning opportunities provided. More regular meetings would be helpful.,5,Positive
+INT-0935,The internship was okay and I completed the assigned tasks.,3,Neutral
+INT-0936,The learning opportunities were reasonable. More regular meetings would be helpful.,3,Neutral
+INT-0937,My mentor was supportive and explained tasks clearly. More regular meetings would be helpful.,5,Positive
+INT-0938,The workload was stressful and the schedule was poorly organized.,1,Negative
+INT-0939,The internship was excellent and I learned a lot from the team. I would like more opportunities like this.,5,Positive
+INT-0940,"I enjoyed the projects and gained useful practical skills. Overall, this was my experience.",4,Positive
+INT-0941,Communication with the team was poor and frustrating. More regular meetings would be helpful.,1,Negative
+INT-0942,The tasks were interesting and helped me build my skills.,5,Positive
+INT-0943,The communication with my mentor was clear and helpful. I think the program can be improved.,4,Positive
+INT-0944,The tasks were manageable and the overall experience was normal. I think the program can be improved.,3,Neutral
+INT-0945,"The workload was acceptable for most of the internship. Overall, this was my experience.",3,Neutral
+INT-0946,The tasks were interesting and helped me build my skills.,4,Positive
+INT-0947,"The learning opportunities were reasonable. Overall, this was my experience.",3,Neutral
+INT-0948,I received good guidance and felt confident completing my tasks. I think the program can be improved.,4,Positive
+INT-0949,The tasks were interesting and helped me build my skills. I would recommend the internship.,5,Positive
+INT-0950,I felt unsupported during most of the internship.,2,Negative
+INT-0951,The internship did not provide enough practical learning. More regular meetings would be helpful.,2,Negative
+INT-0952,My experience was neither very good nor very bad. I think the program can be improved.,3,Neutral
+INT-0953,I really enjoyed working with the team. I think the program can be improved.,4,Positive
+INT-0954,"My mentor was supportive and explained tasks clearly. Overall, this was my experience.",5,Positive
+INT-0955,The training was insufficient and I needed more help. I would like more opportunities like this.,1,Negative
+INT-0956,The tasks were interesting and helped me build my skills. I would like more opportunities like this.,5,Positive
+INT-0957,I enjoyed the projects and gained useful practical skills.,4,Positive
+INT-0958,The internship was disappointing and I did not learn enough. I would like more opportunities like this.,1,Negative
+INT-0959,The tasks were manageable and the overall experience was normal. I would recommend the internship.,3,Neutral
+INT-0960,The projects were repetitive and did not improve my skills. I would like more opportunities like this.,1,Negative
+INT-0961,The tasks were interesting and helped me build my skills. I would recommend the internship.,4,Positive
+INT-0962,The tasks were interesting and helped me build my skills. I would recommend the internship.,5,Positive
+INT-0963,The internship did not provide enough practical learning. I would like more opportunities like this.,2,Negative
+INT-0964,There was confusion about responsibilities and deadlines. More regular meetings would be helpful.,1,Negative
+INT-0965,"My mentor was unavailable and I did not receive enough guidance. Overall, this was my experience.",1,Negative
+INT-0966,I felt unsupported during most of the internship. I think the program can be improved.,1,Negative
+INT-0967,The team was fine and the internship met basic expectations.,3,Neutral
+INT-0968,The feedback from my supervisor helped me improve quickly. I would recommend the internship.,4,Positive
+INT-0969,I enjoyed the projects and gained useful practical skills. I would like more opportunities like this.,4,Positive
+INT-0970,"My mentor was supportive and explained tasks clearly. Overall, this was my experience.",5,Positive
+INT-0971,I completed my work and received some feedback from my mentor.,3,Neutral
+INT-0972,The internship was excellent and I learned a lot from the team. More regular meetings would be helpful.,4,Positive
+INT-0973,The team environment was friendly and motivating. More regular meetings would be helpful.,4,Positive
+INT-0974,The company provided a positive learning environment. I would like more opportunities like this.,4,Positive
+INT-0975,"The workload was stressful and the schedule was poorly organized. Overall, this was my experience.",1,Negative
+INT-0976,"The internship gave me valuable real world experience. Overall, this was my experience.",4,Positive
+INT-0977,The tasks were interesting and helped me build my skills. I would recommend the internship.,4,Positive
+INT-0978,"The learning opportunities were reasonable. Overall, this was my experience.",3,Neutral
+INT-0979,I received very little feedback about my work. I would recommend the internship.,2,Negative
+INT-0980,The tasks were interesting and helped me build my skills. I think the program can be improved.,4,Positive
+INT-0981,"The tasks were interesting and helped me build my skills. Overall, this was my experience.",4,Positive
+INT-0982,"The company provided a positive learning environment. Overall, this was my experience.",5,Positive
+INT-0983,I really enjoyed working with the team. I would recommend the internship.,4,Positive
+INT-0984,"The internship gave me valuable real world experience. Overall, this was my experience.",5,Positive
+INT-0985,The tasks were unclear and difficult to understand. More regular meetings would be helpful.,2,Negative
+INT-0986,I was unhappy with the lack of communication. I would recommend the internship.,1,Negative
+INT-0987,The team was fine and the internship met basic expectations. More regular meetings would be helpful.,3,Neutral
+INT-0988,The experience was average with both good and difficult moments.,3,Neutral
+INT-0989,The internship was disappointing and I did not learn enough.,1,Negative
+INT-0990,"The internship did not provide enough practical learning. Overall, this was my experience.",2,Negative
+INT-0991,The team environment was friendly and motivating. More regular meetings would be helpful.,4,Positive
+INT-0992,Communication with the team was poor and frustrating. More regular meetings would be helpful.,1,Negative
+INT-0993,The team environment was friendly and motivating. I would like more opportunities like this.,5,Positive
+INT-0994,"The internship was excellent and I learned a lot from the team. Overall, this was my experience.",4,Positive
+INT-0995,I was unhappy with the lack of communication. I would recommend the internship.,2,Negative
+INT-0996,The internship did not provide enough practical learning. I would recommend the internship.,2,Negative
+INT-0997,I enjoyed the projects and gained useful practical skills. I would recommend the internship.,5,Positive
+INT-0998,The team environment was friendly and motivating. I would like more opportunities like this.,5,Positive
+INT-0999,"The company provided a positive learning environment. Overall, this was my experience.",4,Positive
+INT-1000,I really enjoyed working with the team. More regular meetings would be helpful.,5,Positive
