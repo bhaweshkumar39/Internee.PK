@@ -1,0 +1,251 @@
+intern_id,interest_group,experience_level,learning_hours_per_week
+INT-0001,AI,Intermediate,13
+INT-0002,Data,Intermediate,12
+INT-0003,Business,Intermediate,10
+INT-0004,Machine Learning,Beginner,14
+INT-0005,Programming,Beginner,5
+INT-0006,Business,Intermediate,15
+INT-0007,AI,Intermediate,14
+INT-0008,AI,Beginner,10
+INT-0009,Programming,Beginner,12
+INT-0010,Data,Intermediate,10
+INT-0011,Data,Beginner,7
+INT-0012,Business,Intermediate,13
+INT-0013,Machine Learning,Beginner,6
+INT-0014,AI,Beginner,7
+INT-0015,Data,Advanced,10
+INT-0016,Programming,Beginner,14
+INT-0017,Machine Learning,Beginner,8
+INT-0018,Programming,Beginner,9
+INT-0019,AI,Beginner,4
+INT-0020,Machine Learning,Beginner,5
+INT-0021,AI,Beginner,4
+INT-0022,Data,Beginner,4
+INT-0023,Business,Beginner,14
+INT-0024,Business,Intermediate,14
+INT-0025,AI,Intermediate,13
+INT-0026,Programming,Beginner,4
+INT-0027,Data,Beginner,4
+INT-0028,Programming,Intermediate,7
+INT-0029,Programming,Intermediate,10
+INT-0030,Machine Learning,Intermediate,8
+INT-0031,AI,Beginner,9
+INT-0032,Business,Beginner,6
+INT-0033,Data,Beginner,12
+INT-0034,Data,Beginner,7
+INT-0035,Data,Intermediate,4
+INT-0036,Programming,Beginner,12
+INT-0037,Programming,Beginner,14
+INT-0038,Machine Learning,Beginner,4
+INT-0039,Programming,Intermediate,9
+INT-0040,Machine Learning,Beginner,13
+INT-0041,Data,Intermediate,12
+INT-0042,AI,Beginner,14
+INT-0043,AI,Advanced,8
+INT-0044,Data,Beginner,8
+INT-0045,AI,Intermediate,12
+INT-0046,AI,Advanced,5
+INT-0047,Data,Advanced,6
+INT-0048,Data,Intermediate,11
+INT-0049,Machine Learning,Intermediate,12
+INT-0050,Programming,Intermediate,5
+INT-0051,Programming,Intermediate,10
+INT-0052,Programming,Beginner,8
+INT-0053,AI,Intermediate,10
+INT-0054,Machine Learning,Intermediate,15
+INT-0055,AI,Intermediate,4
+INT-0056,AI,Intermediate,15
+INT-0057,Data,Beginner,9
+INT-0058,Machine Learning,Intermediate,13
+INT-0059,Programming,Beginner,9
+INT-0060,Programming,Beginner,7
+INT-0061,Machine Learning,Intermediate,13
+INT-0062,Machine Learning,Beginner,12
+INT-0063,Machine Learning,Beginner,5
+INT-0064,AI,Beginner,12
+INT-0065,Machine Learning,Beginner,13
+INT-0066,Machine Learning,Beginner,8
+INT-0067,Machine Learning,Beginner,15
+INT-0068,Data,Intermediate,11
+INT-0069,Programming,Beginner,8
+INT-0070,Data,Advanced,4
+INT-0071,Programming,Advanced,12
+INT-0072,Data,Intermediate,6
+INT-0073,Business,Beginner,13
+INT-0074,Programming,Intermediate,10
+INT-0075,Programming,Intermediate,9
+INT-0076,Data,Intermediate,5
+INT-0077,Data,Intermediate,12
+INT-0078,Machine Learning,Intermediate,5
+INT-0079,Machine Learning,Intermediate,9
+INT-0080,AI,Beginner,14
+INT-0081,Machine Learning,Intermediate,15
+INT-0082,Data,Beginner,15
+INT-0083,AI,Intermediate,15
+INT-0084,Programming,Intermediate,10
+INT-0085,Programming,Beginner,6
+INT-0086,Programming,Intermediate,14
+INT-0087,AI,Beginner,13
+INT-0088,Data,Intermediate,15
+INT-0089,Programming,Beginner,11
+INT-0090,Machine Learning,Advanced,5
+INT-0091,Programming,Beginner,10
+INT-0092,Machine Learning,Advanced,9
+INT-0093,Data,Intermediate,14
+INT-0094,Data,Intermediate,8
+INT-0095,Data,Intermediate,7
+INT-0096,Machine Learning,Intermediate,4
+INT-0097,Data,Advanced,14
+INT-0098,Programming,Beginner,13
+INT-0099,Programming,Intermediate,4
+INT-0100,Business,Beginner,9
+INT-0101,Business,Intermediate,9
+INT-0102,Machine Learning,Beginner,9
+INT-0103,Data,Intermediate,15
+INT-0104,Business,Intermediate,5
+INT-0105,AI,Intermediate,7
+INT-0106,AI,Intermediate,6
+INT-0107,Data,Intermediate,6
+INT-0108,Data,Intermediate,14
+INT-0109,Programming,Intermediate,15
+INT-0110,Business,Intermediate,4
+INT-0111,Data,Advanced,11
+INT-0112,Programming,Beginner,6
+INT-0113,Data,Beginner,6
+INT-0114,Machine Learning,Beginner,7
+INT-0115,Programming,Intermediate,6
+INT-0116,Business,Beginner,9
+INT-0117,AI,Intermediate,15
+INT-0118,AI,Intermediate,11
+INT-0119,Data,Beginner,12
+INT-0120,Machine Learning,Intermediate,9
+INT-0121,Machine Learning,Intermediate,4
+INT-0122,Machine Learning,Beginner,5
+INT-0123,Programming,Beginner,7
+INT-0124,Data,Beginner,6
+INT-0125,Programming,Beginner,14
+INT-0126,Machine Learning,Beginner,14
+INT-0127,Data,Advanced,14
+INT-0128,Programming,Beginner,11
+INT-0129,Programming,Beginner,10
+INT-0130,Machine Learning,Intermediate,11
+INT-0131,Programming,Intermediate,8
+INT-0132,Business,Advanced,12
+INT-0133,Machine Learning,Intermediate,13
+INT-0134,Data,Intermediate,13
+INT-0135,Machine Learning,Beginner,11
+INT-0136,Programming,Advanced,4
+INT-0137,Business,Intermediate,12
+INT-0138,Machine Learning,Advanced,8
+INT-0139,AI,Beginner,12
+INT-0140,Programming,Intermediate,10
+INT-0141,Machine Learning,Intermediate,14
+INT-0142,Machine Learning,Beginner,8
+INT-0143,Business,Intermediate,15
+INT-0144,Machine Learning,Intermediate,14
+INT-0145,Machine Learning,Beginner,7
+INT-0146,Data,Intermediate,9
+INT-0147,Data,Intermediate,10
+INT-0148,Machine Learning,Beginner,13
+INT-0149,Data,Intermediate,12
+INT-0150,Programming,Beginner,14
+INT-0151,AI,Beginner,8
+INT-0152,Business,Advanced,10
+INT-0153,Programming,Intermediate,9
+INT-0154,Machine Learning,Beginner,14
+INT-0155,Programming,Advanced,7
+INT-0156,Machine Learning,Intermediate,11
+INT-0157,Data,Beginner,5
+INT-0158,Machine Learning,Intermediate,14
+INT-0159,AI,Beginner,8
+INT-0160,AI,Advanced,8
+INT-0161,Programming,Intermediate,10
+INT-0162,Business,Intermediate,9
+INT-0163,Programming,Beginner,14
+INT-0164,Programming,Intermediate,10
+INT-0165,Machine Learning,Beginner,10
+INT-0166,Data,Beginner,5
+INT-0167,AI,Beginner,4
+INT-0168,AI,Intermediate,8
+INT-0169,Data,Beginner,15
+INT-0170,Business,Advanced,15
+INT-0171,Data,Intermediate,11
+INT-0172,Machine Learning,Beginner,11
+INT-0173,Data,Beginner,8
+INT-0174,Business,Beginner,6
+INT-0175,Programming,Intermediate,4
+INT-0176,Programming,Intermediate,8
+INT-0177,Data,Beginner,7
+INT-0178,Business,Intermediate,6
+INT-0179,Business,Beginner,7
+INT-0180,AI,Intermediate,4
+INT-0181,Business,Advanced,11
+INT-0182,Business,Intermediate,15
+INT-0183,Machine Learning,Intermediate,12
+INT-0184,Data,Intermediate,9
+INT-0185,AI,Beginner,9
+INT-0186,Machine Learning,Beginner,7
+INT-0187,Data,Beginner,5
+INT-0188,Programming,Intermediate,11
+INT-0189,AI,Intermediate,10
+INT-0190,Data,Intermediate,4
+INT-0191,Business,Intermediate,8
+INT-0192,Programming,Beginner,7
+INT-0193,Programming,Intermediate,6
+INT-0194,AI,Beginner,12
+INT-0195,Programming,Beginner,10
+INT-0196,Programming,Intermediate,11
+INT-0197,Machine Learning,Advanced,12
+INT-0198,Business,Intermediate,15
+INT-0199,Programming,Beginner,13
+INT-0200,Data,Intermediate,11
+INT-0201,AI,Beginner,14
+INT-0202,Business,Intermediate,9
+INT-0203,Machine Learning,Intermediate,15
+INT-0204,Programming,Beginner,13
+INT-0205,Programming,Beginner,11
+INT-0206,Programming,Beginner,14
+INT-0207,Programming,Advanced,10
+INT-0208,Machine Learning,Intermediate,12
+INT-0209,Programming,Intermediate,7
+INT-0210,Machine Learning,Intermediate,15
+INT-0211,Machine Learning,Intermediate,11
+INT-0212,Machine Learning,Beginner,13
+INT-0213,Programming,Advanced,9
+INT-0214,AI,Beginner,14
+INT-0215,AI,Intermediate,4
+INT-0216,AI,Intermediate,5
+INT-0217,Programming,Intermediate,10
+INT-0218,Programming,Advanced,12
+INT-0219,Business,Beginner,13
+INT-0220,Data,Intermediate,9
+INT-0221,Data,Beginner,11
+INT-0222,Machine Learning,Intermediate,10
+INT-0223,Machine Learning,Beginner,15
+INT-0224,Business,Beginner,11
+INT-0225,Data,Beginner,9
+INT-0226,Business,Beginner,15
+INT-0227,Programming,Beginner,5
+INT-0228,Machine Learning,Intermediate,15
+INT-0229,Machine Learning,Intermediate,5
+INT-0230,Programming,Beginner,7
+INT-0231,Programming,Beginner,13
+INT-0232,Data,Beginner,12
+INT-0233,Business,Intermediate,15
+INT-0234,Machine Learning,Beginner,12
+INT-0235,Business,Beginner,11
+INT-0236,AI,Beginner,8
+INT-0237,Data,Intermediate,4
+INT-0238,AI,Beginner,5
+INT-0239,Programming,Intermediate,7
+INT-0240,Programming,Intermediate,4
+INT-0241,AI,Intermediate,10
+INT-0242,AI,Intermediate,13
+INT-0243,Programming,Intermediate,15
+INT-0244,Machine Learning,Beginner,9
+INT-0245,Machine Learning,Intermediate,14
+INT-0246,Business,Intermediate,15
+INT-0247,Machine Learning,Beginner,14
+INT-0248,Data,Intermediate,9
+INT-0249,Data,Beginner,7
+INT-0250,Data,Intermediate,15

@@ -1,0 +1,16 @@
+module_id,module_name,category,level,duration_hours
+M01,Python Basics,Programming,Beginner,8
+M02,Python for Data Analysis,Programming,Intermediate,10
+M03,SQL Fundamentals,Database,Beginner,7
+M04,Advanced SQL,Database,Intermediate,9
+M05,Machine Learning Basics,Machine Learning,Intermediate,12
+M06,Feature Engineering,Machine Learning,Intermediate,9
+M07,Model Evaluation,Machine Learning,Intermediate,8
+M08,Deep Learning Introduction,AI,Advanced,14
+M09,Natural Language Processing,AI,Advanced,11
+M10,Data Visualization,Data,Beginner,6
+M11,Statistics for Data Science,Data,Intermediate,10
+M12,Git and GitHub,Tools,Beginner,5
+M13,Cloud Fundamentals,Cloud,Intermediate,9
+M14,Communication Skills,Professional,Beginner,5
+M15,Problem Solving,Professional,Intermediate,7
